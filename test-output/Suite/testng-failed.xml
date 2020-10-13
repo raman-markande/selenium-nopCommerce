@@ -5,15 +5,15 @@
     <listener class-name="com.nopCommerce.Utilities.Reporting"/>
   </listeners>
   <test thread-count="5" name="Test(failed)" verbose="4">
-    <parameter name="browser" value="chrome"/>
+    <parameter name="browser" value="edge"/>
     <classes>
-      <class name="com.nopCommerce.TestCases.TC_AddCampaignDDT_003">
+      <class name="com.nopCommerce.TestCases.TC_AddGiftCard_004">
         <methods>
+          <include name="addGiftCardTest"/>
           <include name="tearDown"/>
-          <include name="addCampaignTest" invocation-numbers="4 5"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- com.nopCommerce.TestCases.TC_AddCampaignDDT_003 -->
+      </class> <!-- com.nopCommerce.TestCases.TC_AddGiftCard_004 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

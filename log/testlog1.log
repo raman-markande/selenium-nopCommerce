@@ -761,3 +761,38 @@
 2020-10-13 13:01:39,008 [main] INFO ebanking - *************TC_AddCampaign_003****************
 2020-10-13 13:01:40,913 [main] INFO ebanking - Login Successfull
 2020-10-13 13:01:52,978 [main] INFO ebanking - *************TC_AddCampaign_003****************
+2020-10-13 21:36:36,868 [main] INFO ebanking - *************TC_Login_001*************
+2020-10-13 21:36:37,209 [main] INFO ebanking - Entered Username
+2020-10-13 21:36:37,352 [main] INFO ebanking - Entered Password
+2020-10-13 21:36:42,618 [main] INFO ebanking - Passed
+2020-10-13 21:38:35,864 [main] INFO ebanking - *************TC_Login_001*************
+2020-10-13 21:38:36,175 [main] INFO ebanking - Entered Username
+2020-10-13 21:38:36,344 [main] INFO ebanking - Entered Password
+2020-10-13 21:38:41,623 [main] INFO ebanking - Passed
+2020-10-13 22:15:34,582 [main] INFO ebanking - *************TC_Login_001*************
+2020-10-13 22:15:34,856 [main] INFO ebanking - Entered Username
+2020-10-13 22:15:35,069 [main] INFO ebanking - Entered Password
+2020-10-13 22:15:40,925 [main] INFO ebanking - Passed
+2020-10-13 22:15:50,209 [main] INFO ebanking - *************TC_AddCustomer_002*************
+2020-10-13 22:15:57,258 [main] INFO ebanking - loggin successfull
+2020-10-13 22:15:57,730 [main] INFO ebanking - Clicked on Sales Tab
+2020-10-13 22:16:01,044 [main] INFO ebanking - Clicked on Gift Card Sub Tab
+2020-10-13 22:16:02,941 [main] INFO ebanking - Clicked on Add New
+2020-10-13 22:16:03,188 [main] INFO ebanking - Selected Order Type
+2020-10-13 22:18:16,434 [main] INFO ebanking - *************TC_AddCustomer_002*************
+2020-10-13 22:18:24,341 [main] INFO ebanking - loggin successfull
+2020-10-13 22:18:24,792 [main] INFO ebanking - Clicked on Sales Tab
+2020-10-13 22:19:14,170 [main] INFO ebanking - *************TC_AddCustomer_002*************
+2020-10-13 22:19:22,319 [main] INFO ebanking - loggin successfull
+2020-10-13 22:19:22,691 [main] INFO ebanking - Clicked on Sales Tab
+2020-10-13 22:20:35,237 [main] INFO ebanking - *************TC_AddCustomer_002*************
+2020-10-13 22:20:39,571 [main] INFO ebanking - loggin successfull
+2020-10-13 22:20:41,789 [main] INFO ebanking - Clicked on Sales Tab
+2020-10-13 22:20:43,658 [main] INFO ebanking - Clicked on Gift Card Sub Tab
+2020-10-13 22:20:47,380 [main] INFO ebanking - Clicked on Add New
+2020-10-13 22:20:47,675 [main] INFO ebanking - Selected Order Type
+2020-10-13 22:20:47,797 [main] INFO ebanking - Recipient Added
+2020-10-13 22:20:47,945 [main] INFO ebanking - Sender Added
+2020-10-13 22:20:49,939 [main] INFO ebanking - Clicked on Save
+2020-10-13 22:20:51,998 [main] INFO ebanking - Gift Card added successfully
+2020-10-13 22:20:51,999 [main] INFO ebanking - Passed

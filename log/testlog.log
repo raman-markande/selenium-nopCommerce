@@ -761,3 +761,38 @@
 2020-10-13 13:01:39,008 - ebanking -INFO - *************TC_AddCampaign_003****************
 2020-10-13 13:01:40,913 - ebanking -INFO - Login Successfull
 2020-10-13 13:01:52,978 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-13 21:36:36,868 - ebanking -INFO - *************TC_Login_001*************
+2020-10-13 21:36:37,209 - ebanking -INFO - Entered Username
+2020-10-13 21:36:37,352 - ebanking -INFO - Entered Password
+2020-10-13 21:36:42,618 - ebanking -INFO - Passed
+2020-10-13 21:38:35,864 - ebanking -INFO - *************TC_Login_001*************
+2020-10-13 21:38:36,175 - ebanking -INFO - Entered Username
+2020-10-13 21:38:36,344 - ebanking -INFO - Entered Password
+2020-10-13 21:38:41,623 - ebanking -INFO - Passed
+2020-10-13 22:15:34,582 - ebanking -INFO - *************TC_Login_001*************
+2020-10-13 22:15:34,856 - ebanking -INFO - Entered Username
+2020-10-13 22:15:35,069 - ebanking -INFO - Entered Password
+2020-10-13 22:15:40,925 - ebanking -INFO - Passed
+2020-10-13 22:15:50,209 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-13 22:15:57,258 - ebanking -INFO - loggin successfull
+2020-10-13 22:15:57,730 - ebanking -INFO - Clicked on Sales Tab
+2020-10-13 22:16:01,044 - ebanking -INFO - Clicked on Gift Card Sub Tab
+2020-10-13 22:16:02,941 - ebanking -INFO - Clicked on Add New
+2020-10-13 22:16:03,188 - ebanking -INFO - Selected Order Type
+2020-10-13 22:18:16,434 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-13 22:18:24,341 - ebanking -INFO - loggin successfull
+2020-10-13 22:18:24,792 - ebanking -INFO - Clicked on Sales Tab
+2020-10-13 22:19:14,170 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-13 22:19:22,319 - ebanking -INFO - loggin successfull
+2020-10-13 22:19:22,691 - ebanking -INFO - Clicked on Sales Tab
+2020-10-13 22:20:35,237 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-13 22:20:39,571 - ebanking -INFO - loggin successfull
+2020-10-13 22:20:41,789 - ebanking -INFO - Clicked on Sales Tab
+2020-10-13 22:20:43,658 - ebanking -INFO - Clicked on Gift Card Sub Tab
+2020-10-13 22:20:47,380 - ebanking -INFO - Clicked on Add New
+2020-10-13 22:20:47,675 - ebanking -INFO - Selected Order Type
+2020-10-13 22:20:47,797 - ebanking -INFO - Recipient Added
+2020-10-13 22:20:47,945 - ebanking -INFO - Sender Added
+2020-10-13 22:20:49,939 - ebanking -INFO - Clicked on Save
+2020-10-13 22:20:51,998 - ebanking -INFO - Gift Card added successfully
+2020-10-13 22:20:51,999 - ebanking -INFO - Passed
