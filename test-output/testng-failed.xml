@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="4">
+  <listeners>
+    <listener class-name="com.nopCommerce.Utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)" verbose="4">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.nopCommerce.TestCases.TC_AddCampaignDDT_003">
+        <methods>
+          <include name="tearDown"/>
+          <include name="addCampaignTest" invocation-numbers="4 5"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.nopCommerce.TestCases.TC_AddCampaignDDT_003 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

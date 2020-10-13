@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" verbose="4">
+	<listeners>
+		<listener class-name="com.nopCommerce.Utilities.Reporting" />
+	</listeners>
+	<test name="Test">
+		<parameter name="browser" value="${browserName}" />
+		<classes>
+			<class name="com.nopCommerce.TestCases.TC_Login_001" />
+			
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

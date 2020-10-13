@@ -1,0 +1,763 @@
+2020-10-07 20:09:20,735 - ebanking -INFO - Entered Username
+2020-10-07 20:09:20,881 - ebanking -INFO - Entered Password
+2020-10-07 20:09:25,736 - ebanking -INFO - Title Matching with expected
+2020-10-07 20:52:18,944 - ebanking -INFO - *************TC_Login_001*************
+2020-10-07 20:52:19,431 - ebanking -INFO - Entered Username
+2020-10-07 20:52:19,800 - ebanking -INFO - Entered Password
+2020-10-07 20:52:26,194 - ebanking -INFO - Title Matching with expected
+2020-10-07 21:06:17,132 - ebanking -INFO - *************TC_Login_001*************
+2020-10-07 21:06:17,446 - ebanking -INFO - Entered Username
+2020-10-07 21:06:17,667 - ebanking -INFO - Entered Password
+2020-10-07 21:06:23,590 - ebanking -INFO - Title Matching with expected
+2020-10-07 21:28:19,520 - ebanking -INFO - *************TC_Login_001*************
+2020-10-07 21:28:19,993 - ebanking -INFO - Entered Username
+2020-10-07 21:28:20,339 - ebanking -INFO - Entered Password
+2020-10-07 21:28:25,615 - ebanking -INFO - Title Matching with expected
+2020-10-07 21:28:52,224 - ebanking -INFO - *************TC_Login_001*************
+2020-10-07 21:28:52,526 - ebanking -INFO - Entered Username
+2020-10-07 21:28:52,723 - ebanking -INFO - Entered Password
+2020-10-07 21:28:57,640 - ebanking -INFO - Title Matching with expected
+2020-10-07 22:50:59,413 - ebanking -INFO - *************TC_Login_001*************
+2020-10-07 22:50:59,689 - ebanking -INFO - Entered Username
+2020-10-07 22:50:59,890 - ebanking -INFO - Entered Password
+2020-10-07 22:51:07,444 - ebanking -INFO - Title Matching with expected
+2020-10-07 22:54:02,865 - ebanking -INFO - *************TC_Login_001*************
+2020-10-07 22:54:03,163 - ebanking -INFO - Entered Username
+2020-10-07 22:54:03,377 - ebanking -INFO - Entered Password
+2020-10-07 22:54:08,687 - ebanking -INFO - Title Matching with expected
+2020-10-07 23:11:24,747 - ebanking -INFO - *************TC_Login_001*************
+2020-10-07 23:11:25,040 - ebanking -INFO - Entered Username
+2020-10-07 23:11:25,268 - ebanking -INFO - Entered Password
+2020-10-07 23:11:32,127 - ebanking -INFO - Title Matching with expected
+2020-10-07 23:14:23,335 - ebanking -INFO - *************TC_Login_001*************
+2020-10-07 23:14:23,618 - ebanking -INFO - Entered Username
+2020-10-07 23:14:23,824 - ebanking -INFO - Entered Password
+2020-10-07 23:14:31,031 - ebanking -INFO - Title Matching with expected
+2020-10-08 08:49:19,794 - ebanking -INFO - *************TC_Login_001*************
+2020-10-08 08:49:20,086 - ebanking -INFO - Entered Username
+2020-10-08 08:49:20,301 - ebanking -INFO - Entered Password
+2020-10-08 08:49:25,029 - ebanking -INFO - Title Matching with expected
+2020-10-08 21:35:21,911 - ebanking -INFO - *************TC_Login_001*************
+2020-10-08 21:35:22,185 - ebanking -INFO - Entered Username
+2020-10-08 21:35:22,410 - ebanking -INFO - Entered Password
+2020-10-08 21:35:29,501 - ebanking -INFO - Title Matching with expected
+2020-10-08 21:40:54,600 - ebanking -INFO - *************TC_Login_001*************
+2020-10-08 21:40:54,854 - ebanking -INFO - Entered Username
+2020-10-08 21:40:54,990 - ebanking -INFO - Entered Password
+2020-10-08 21:41:00,183 - ebanking -INFO - Title Matching with expected
+2020-10-08 21:41:08,821 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-08 21:41:14,267 - ebanking -INFO - loggin successfull
+2020-10-08 21:41:19,932 - ebanking -INFO - added email
+2020-10-08 21:41:20,091 - ebanking -INFO - added passsword
+2020-10-08 21:41:20,246 - ebanking -INFO - added firstname
+2020-10-08 21:41:20,397 - ebanking -INFO - added lastname
+2020-10-08 21:41:20,521 - ebanking -INFO - Gender seleted
+2020-10-08 21:41:20,681 - ebanking -INFO - added DOB
+2020-10-08 21:41:20,858 - ebanking -INFO - added company
+2020-10-08 21:47:38,364 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-08 21:47:44,196 - ebanking -INFO - loggin successfull
+2020-10-08 21:47:49,633 - ebanking -INFO - added email
+2020-10-08 21:47:49,854 - ebanking -INFO - added passsword
+2020-10-08 21:47:50,126 - ebanking -INFO - added firstname
+2020-10-08 21:47:50,401 - ebanking -INFO - added lastname
+2020-10-08 21:47:50,608 - ebanking -INFO - Gender seleted
+2020-10-08 21:47:50,863 - ebanking -INFO - added DOB
+2020-10-08 21:47:51,146 - ebanking -INFO - added company
+2020-10-08 21:56:15,100 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-08 21:56:22,182 - ebanking -INFO - loggin successfull
+2020-10-08 21:56:27,159 - ebanking -INFO - added email
+2020-10-08 21:56:27,317 - ebanking -INFO - added passsword
+2020-10-08 21:56:27,472 - ebanking -INFO - added firstname
+2020-10-08 21:56:27,629 - ebanking -INFO - added lastname
+2020-10-08 21:56:27,805 - ebanking -INFO - Gender seleted
+2020-10-08 21:56:28,103 - ebanking -INFO - added DOB
+2020-10-08 21:56:28,429 - ebanking -INFO - added company
+2020-10-08 22:01:09,252 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-08 22:01:15,157 - ebanking -INFO - loggin successfull
+2020-10-08 22:01:20,161 - ebanking -INFO - added email
+2020-10-08 22:01:20,322 - ebanking -INFO - added passsword
+2020-10-08 22:01:20,563 - ebanking -INFO - added firstname
+2020-10-08 22:01:20,820 - ebanking -INFO - added lastname
+2020-10-08 22:01:21,017 - ebanking -INFO - Gender seleted
+2020-10-08 22:01:21,332 - ebanking -INFO - added DOB
+2020-10-08 22:01:21,674 - ebanking -INFO - added company
+2020-10-08 22:06:23,529 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-08 22:06:29,715 - ebanking -INFO - loggin successfull
+2020-10-08 22:06:34,933 - ebanking -INFO - added email
+2020-10-08 22:06:35,094 - ebanking -INFO - added passsword
+2020-10-08 22:06:35,244 - ebanking -INFO - added firstname
+2020-10-08 22:06:35,405 - ebanking -INFO - added lastname
+2020-10-08 22:06:35,534 - ebanking -INFO - Gender seleted
+2020-10-08 22:06:35,718 - ebanking -INFO - added DOB
+2020-10-08 22:06:35,962 - ebanking -INFO - added company
+2020-10-08 22:12:17,781 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-08 22:12:24,342 - ebanking -INFO - loggin successfull
+2020-10-08 22:12:29,834 - ebanking -INFO - added email
+2020-10-08 22:12:29,992 - ebanking -INFO - added passsword
+2020-10-08 22:12:30,145 - ebanking -INFO - added firstname
+2020-10-08 22:12:30,289 - ebanking -INFO - added lastname
+2020-10-08 22:12:30,404 - ebanking -INFO - Gender seleted
+2020-10-08 22:12:30,580 - ebanking -INFO - added DOB
+2020-10-08 22:12:30,874 - ebanking -INFO - added company
+2020-10-08 22:18:42,309 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-08 22:18:48,581 - ebanking -INFO - loggin successfull
+2020-10-08 22:18:53,535 - ebanking -INFO - added email
+2020-10-08 22:18:53,807 - ebanking -INFO - added passsword
+2020-10-08 22:18:54,112 - ebanking -INFO - added firstname
+2020-10-08 22:18:54,384 - ebanking -INFO - added lastname
+2020-10-08 22:18:54,539 - ebanking -INFO - Gender seleted
+2020-10-08 22:18:54,764 - ebanking -INFO - added DOB
+2020-10-08 22:18:55,084 - ebanking -INFO - added company
+2020-10-08 22:18:55,395 - ebanking -INFO - selected Manager of Vendor
+2020-10-08 22:18:55,805 - ebanking -INFO - added admin comment
+2020-10-08 22:19:01,046 - ebanking -INFO - Passed
+2020-10-08 23:06:18,209 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-08 23:06:23,669 - ebanking -INFO - loggin successfull
+2020-10-08 23:06:29,423 - ebanking -INFO - added email
+2020-10-08 23:06:29,730 - ebanking -INFO - added passsword
+2020-10-08 23:06:29,975 - ebanking -INFO - added firstname
+2020-10-08 23:06:30,244 - ebanking -INFO - added lastname
+2020-10-08 23:06:30,445 - ebanking -INFO - Gender seleted
+2020-10-08 23:06:30,706 - ebanking -INFO - added DOB
+2020-10-08 23:06:30,979 - ebanking -INFO - added company
+2020-10-08 23:06:33,598 - ebanking -INFO - selected Newsletetr
+2020-10-08 23:06:33,949 - ebanking -INFO - selected Manager of Vendor
+2020-10-08 23:06:34,274 - ebanking -INFO - added admin comment
+2020-10-08 23:08:21,010 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-08 23:08:26,696 - ebanking -INFO - loggin successfull
+2020-10-08 23:08:31,757 - ebanking -INFO - added email
+2020-10-08 23:08:31,920 - ebanking -INFO - added passsword
+2020-10-08 23:08:32,081 - ebanking -INFO - added firstname
+2020-10-08 23:08:32,237 - ebanking -INFO - added lastname
+2020-10-08 23:08:32,378 - ebanking -INFO - Gender seleted
+2020-10-08 23:08:32,585 - ebanking -INFO - added DOB
+2020-10-08 23:08:32,881 - ebanking -INFO - added company
+2020-10-08 23:08:35,490 - ebanking -INFO - selected Newsletetr
+2020-10-08 23:08:35,819 - ebanking -INFO - selected Manager of Vendor
+2020-10-08 23:08:36,034 - ebanking -INFO - added admin comment
+2020-10-08 23:08:42,221 - ebanking -INFO - Passed
+2020-10-08 23:11:04,137 - ebanking -INFO - *************TC_Login_001*************
+2020-10-08 23:11:04,341 - ebanking -INFO - Entered Username
+2020-10-08 23:11:04,514 - ebanking -INFO - Entered Password
+2020-10-08 23:11:09,964 - ebanking -INFO - Title Matching with expected
+2020-10-08 23:11:18,442 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-08 23:11:25,377 - ebanking -INFO - loggin successfull
+2020-10-08 23:11:29,481 - ebanking -INFO - added email
+2020-10-08 23:11:29,630 - ebanking -INFO - added passsword
+2020-10-08 23:11:29,774 - ebanking -INFO - added firstname
+2020-10-08 23:11:29,971 - ebanking -INFO - added lastname
+2020-10-08 23:11:30,184 - ebanking -INFO - Gender seleted
+2020-10-08 23:11:30,485 - ebanking -INFO - added DOB
+2020-10-08 23:11:30,791 - ebanking -INFO - added company
+2020-10-08 23:11:33,413 - ebanking -INFO - selected Newsletetr
+2020-10-08 23:11:33,748 - ebanking -INFO - selected Manager of Vendor
+2020-10-08 23:11:34,080 - ebanking -INFO - added admin comment
+2020-10-08 23:12:54,419 - ebanking -INFO - *************TC_Login_001*************
+2020-10-08 23:12:54,848 - ebanking -INFO - Entered Username
+2020-10-08 23:12:55,175 - ebanking -INFO - Entered Password
+2020-10-08 23:13:00,593 - ebanking -INFO - Title Matching with expected
+2020-10-08 23:13:09,093 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-08 23:13:14,559 - ebanking -INFO - loggin successfull
+2020-10-08 23:13:19,355 - ebanking -INFO - added email
+2020-10-08 23:13:19,570 - ebanking -INFO - added passsword
+2020-10-08 23:13:19,825 - ebanking -INFO - added firstname
+2020-10-08 23:13:20,095 - ebanking -INFO - added lastname
+2020-10-08 23:13:20,313 - ebanking -INFO - Gender seleted
+2020-10-08 23:13:20,602 - ebanking -INFO - added DOB
+2020-10-08 23:13:20,902 - ebanking -INFO - added company
+2020-10-08 23:13:23,500 - ebanking -INFO - selected Newsletetr
+2020-10-08 23:13:23,812 - ebanking -INFO - selected Manager of Vendor
+2020-10-08 23:13:24,031 - ebanking -INFO - added admin comment
+2020-10-08 23:13:29,631 - ebanking -INFO - Passed
+2020-10-11 19:04:27,060 - ebanking -INFO - *************TC_Login_001*************
+2020-10-11 19:04:27,355 - ebanking -INFO - Entered Username
+2020-10-11 19:04:27,513 - ebanking -INFO - Entered Password
+2020-10-11 19:04:33,136 - ebanking -INFO - Title Matching with expected
+2020-10-11 19:04:41,880 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-11 19:04:47,398 - ebanking -INFO - loggin successfull
+2020-10-11 19:04:51,401 - ebanking -INFO - added email
+2020-10-11 19:04:51,656 - ebanking -INFO - added passsword
+2020-10-11 19:04:51,885 - ebanking -INFO - added firstname
+2020-10-11 19:04:52,149 - ebanking -INFO - added lastname
+2020-10-11 19:04:52,364 - ebanking -INFO - Gender seleted
+2020-10-11 19:04:52,667 - ebanking -INFO - added DOB
+2020-10-11 19:04:52,975 - ebanking -INFO - added company
+2020-10-11 19:04:55,618 - ebanking -INFO - selected Newsletetr
+2020-10-11 19:04:55,969 - ebanking -INFO - selected Manager of Vendor
+2020-10-11 19:04:56,293 - ebanking -INFO - added admin comment
+2020-10-11 19:05:00,898 - ebanking -INFO - Passed
+2020-10-11 19:22:53,030 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 19:22:59,703 - ebanking -INFO - Login Successfull
+2020-10-11 19:25:04,931 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 19:25:11,220 - ebanking -INFO - Login Successfull
+2020-10-11 19:27:30,308 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 19:27:35,926 - ebanking -INFO - Login Successfull
+2020-10-11 19:27:36,181 - ebanking -INFO - Promotion Tab clicked
+2020-10-11 19:30:26,787 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 19:30:33,037 - ebanking -INFO - Login Successfull
+2020-10-11 19:30:33,126 - ebanking -INFO - Promotion Tab clicked
+2020-10-11 19:30:37,190 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-11 19:30:39,097 - ebanking -INFO - Campains Name added
+2020-10-11 19:30:39,386 - ebanking -INFO - Subject added
+2020-10-11 19:30:39,654 - ebanking -INFO - Body added
+2020-10-11 19:30:40,043 - ebanking -INFO - Store selected
+2020-10-11 19:30:40,378 - ebanking -INFO - Role selected
+2020-10-11 19:30:42,881 - ebanking -INFO - Passed
+2020-10-11 19:31:50,862 - ebanking -INFO - *************TC_Login_001*************
+2020-10-11 19:31:51,264 - ebanking -INFO - Entered Username
+2020-10-11 19:31:51,623 - ebanking -INFO - Entered Password
+2020-10-11 19:31:57,257 - ebanking -INFO - Title Matching with expected
+2020-10-11 19:32:05,814 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-11 19:32:11,615 - ebanking -INFO - loggin successfull
+2020-10-11 19:32:15,528 - ebanking -INFO - added email
+2020-10-11 19:32:15,696 - ebanking -INFO - added passsword
+2020-10-11 19:32:15,841 - ebanking -INFO - added firstname
+2020-10-11 19:32:16,009 - ebanking -INFO - added lastname
+2020-10-11 19:32:16,130 - ebanking -INFO - Gender seleted
+2020-10-11 19:32:16,394 - ebanking -INFO - added DOB
+2020-10-11 19:32:16,715 - ebanking -INFO - added company
+2020-10-11 19:32:19,337 - ebanking -INFO - selected Newsletetr
+2020-10-11 19:32:19,677 - ebanking -INFO - selected Manager of Vendor
+2020-10-11 19:32:20,030 - ebanking -INFO - added admin comment
+2020-10-11 19:32:24,647 - ebanking -INFO - Passed
+2020-10-11 19:32:32,848 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 19:32:39,237 - ebanking -INFO - Login Successfull
+2020-10-11 19:32:39,408 - ebanking -INFO - Promotion Tab clicked
+2020-10-11 19:32:44,143 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-11 19:32:46,231 - ebanking -INFO - Campains Name added
+2020-10-11 19:32:46,517 - ebanking -INFO - Subject added
+2020-10-11 19:32:46,799 - ebanking -INFO - Body added
+2020-10-11 19:32:47,169 - ebanking -INFO - Store selected
+2020-10-11 19:32:47,447 - ebanking -INFO - Role selected
+2020-10-11 19:32:49,721 - ebanking -INFO - Passed
+2020-10-11 22:45:54,718 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 22:46:00,232 - ebanking -INFO - Login Successfull
+2020-10-11 22:46:00,320 - ebanking -INFO - Promotion Tab clicked
+2020-10-11 22:46:04,985 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-11 22:46:07,185 - ebanking -INFO - Campains Name added
+2020-10-11 22:46:07,474 - ebanking -INFO - Subject added
+2020-10-11 22:46:07,730 - ebanking -INFO - Body added
+2020-10-11 22:46:08,100 - ebanking -INFO - Store selected
+2020-10-11 22:46:08,454 - ebanking -INFO - Role selected
+2020-10-11 22:46:11,359 - ebanking -INFO - Passed
+2020-10-11 22:46:11,422 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 22:46:11,526 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 22:46:11,581 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 22:46:11,634 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 22:46:11,687 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 23:01:45,630 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 23:01:52,292 - ebanking -INFO - Login Successfull
+2020-10-11 23:01:52,595 - ebanking -INFO - Promotion Tab clicked
+2020-10-11 23:01:57,300 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-11 23:02:02,111 - ebanking -INFO - Campains Name added
+2020-10-11 23:02:02,386 - ebanking -INFO - Subject added
+2020-10-11 23:02:02,580 - ebanking -INFO - Body added
+2020-10-11 23:02:02,935 - ebanking -INFO - Store selected
+2020-10-11 23:02:03,247 - ebanking -INFO - Role selected
+2020-10-11 23:02:07,633 - ebanking -INFO - Passed
+2020-10-11 23:02:09,675 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 23:09:11,328 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 23:09:16,449 - ebanking -INFO - Login Successfull
+2020-10-11 23:09:16,580 - ebanking -INFO - Promotion Tab clicked
+2020-10-11 23:09:21,949 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-11 23:09:27,897 - ebanking -INFO - Campains Name added
+2020-10-11 23:09:28,156 - ebanking -INFO - Subject added
+2020-10-11 23:09:28,385 - ebanking -INFO - Body added
+2020-10-11 23:09:28,709 - ebanking -INFO - Store selected
+2020-10-11 23:09:29,005 - ebanking -INFO - Role selected
+2020-10-11 23:09:35,347 - ebanking -INFO - Passed
+2020-10-11 23:09:39,393 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 23:16:40,067 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 23:16:44,926 - ebanking -INFO - Login Successfull
+2020-10-11 23:16:45,025 - ebanking -INFO - Promotion Tab clicked
+2020-10-11 23:16:50,069 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-11 23:17:06,359 - ebanking -INFO - Campains Name added
+2020-10-11 23:17:06,669 - ebanking -INFO - Subject added
+2020-10-11 23:17:06,917 - ebanking -INFO - Body added
+2020-10-11 23:17:07,301 - ebanking -INFO - Store selected
+2020-10-11 23:17:07,617 - ebanking -INFO - Role selected
+2020-10-11 23:17:13,921 - ebanking -INFO - Passed
+2020-10-11 23:17:20,609 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 23:17:23,968 - ebanking -INFO - Login Successfull
+2020-10-11 23:17:24,148 - ebanking -INFO - Promotion Tab clicked
+2020-10-11 23:17:28,527 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-11 23:17:34,543 - ebanking -INFO - Campains Name added
+2020-10-11 23:17:34,842 - ebanking -INFO - Subject added
+2020-10-11 23:17:35,108 - ebanking -INFO - Body added
+2020-10-11 23:17:35,437 - ebanking -INFO - Store selected
+2020-10-11 23:17:35,760 - ebanking -INFO - Role selected
+2020-10-11 23:17:42,038 - ebanking -INFO - Passed
+2020-10-11 23:17:48,076 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 23:17:51,392 - ebanking -INFO - Login Successfull
+2020-10-11 23:17:51,949 - ebanking -INFO - Promotion Tab clicked
+2020-10-11 23:17:56,350 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-11 23:18:02,441 - ebanking -INFO - Campains Name added
+2020-10-11 23:18:02,757 - ebanking -INFO - Subject added
+2020-10-11 23:18:03,014 - ebanking -INFO - Body added
+2020-10-11 23:18:03,325 - ebanking -INFO - Store selected
+2020-10-11 23:18:03,617 - ebanking -INFO - Role selected
+2020-10-11 23:18:10,030 - ebanking -INFO - Passed
+2020-10-11 23:18:16,171 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 23:18:19,334 - ebanking -INFO - Login Successfull
+2020-10-11 23:18:19,439 - ebanking -INFO - Promotion Tab clicked
+2020-10-11 23:18:24,276 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-11 23:18:30,244 - ebanking -INFO - Campains Name added
+2020-10-11 23:18:30,497 - ebanking -INFO - Subject added
+2020-10-11 23:18:30,720 - ebanking -INFO - Body added
+2020-10-11 23:18:30,999 - ebanking -INFO - Store selected
+2020-10-11 23:18:31,281 - ebanking -INFO - Role selected
+2020-10-11 23:18:37,413 - ebanking -INFO - Passed
+2020-10-11 23:18:43,484 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 23:18:47,561 - ebanking -INFO - Login Successfull
+2020-10-11 23:18:47,801 - ebanking -INFO - Promotion Tab clicked
+2020-10-11 23:18:52,257 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-11 23:18:58,115 - ebanking -INFO - Campains Name added
+2020-10-11 23:18:58,358 - ebanking -INFO - Subject added
+2020-10-11 23:18:58,570 - ebanking -INFO - Body added
+2020-10-11 23:18:58,852 - ebanking -INFO - Store selected
+2020-10-11 23:18:59,145 - ebanking -INFO - Role selected
+2020-10-11 23:19:05,573 - ebanking -INFO - Passed
+2020-10-11 23:19:11,542 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-11 23:19:14,989 - ebanking -INFO - Login Successfull
+2020-10-11 23:19:15,178 - ebanking -INFO - Promotion Tab clicked
+2020-10-11 23:19:19,793 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-11 23:19:26,525 - ebanking -INFO - Campains Name added
+2020-10-11 23:19:26,800 - ebanking -INFO - Subject added
+2020-10-11 23:19:27,049 - ebanking -INFO - Body added
+2020-10-11 23:19:27,362 - ebanking -INFO - Store selected
+2020-10-11 23:19:27,577 - ebanking -INFO - Role selected
+2020-10-11 23:19:34,071 - ebanking -INFO - Passed
+2020-10-12 20:54:54,298 - ebanking -INFO - Campains Name added
+2020-10-12 20:54:54,593 - ebanking -INFO - Subject added
+2020-10-12 20:54:54,848 - ebanking -INFO - Body added
+2020-10-12 20:54:55,207 - ebanking -INFO - Store selected
+2020-10-12 20:54:55,532 - ebanking -INFO - Role selected
+2020-10-12 20:55:00,181 - ebanking -INFO - Passed
+2020-10-12 20:55:17,814 - ebanking -INFO - Campains Name added
+2020-10-12 20:55:18,015 - ebanking -INFO - Subject added
+2020-10-12 20:55:18,193 - ebanking -INFO - Body added
+2020-10-12 20:55:18,387 - ebanking -INFO - Store selected
+2020-10-12 20:55:18,563 - ebanking -INFO - Role selected
+2020-10-12 20:55:22,962 - ebanking -INFO - Passed
+2020-10-12 20:55:40,441 - ebanking -INFO - Campains Name added
+2020-10-12 20:55:40,709 - ebanking -INFO - Subject added
+2020-10-12 20:55:40,943 - ebanking -INFO - Body added
+2020-10-12 20:55:41,229 - ebanking -INFO - Store selected
+2020-10-12 20:55:41,513 - ebanking -INFO - Role selected
+2020-10-12 20:55:45,809 - ebanking -INFO - Passed
+2020-10-12 20:56:02,894 - ebanking -INFO - Campains Name added
+2020-10-12 20:56:03,019 - ebanking -INFO - Subject added
+2020-10-12 20:56:03,165 - ebanking -INFO - Body added
+2020-10-12 20:56:03,374 - ebanking -INFO - Store selected
+2020-10-12 20:56:03,617 - ebanking -INFO - Role selected
+2020-10-12 20:56:08,289 - ebanking -INFO - Passed
+2020-10-12 20:56:25,606 - ebanking -INFO - Campains Name added
+2020-10-12 20:56:25,776 - ebanking -INFO - Subject added
+2020-10-12 20:56:25,923 - ebanking -INFO - Body added
+2020-10-12 20:56:26,119 - ebanking -INFO - Store selected
+2020-10-12 20:56:26,352 - ebanking -INFO - Role selected
+2020-10-12 20:56:30,882 - ebanking -INFO - Passed
+2020-10-12 20:56:48,489 - ebanking -INFO - Campains Name added
+2020-10-12 20:56:48,716 - ebanking -INFO - Subject added
+2020-10-12 20:56:48,930 - ebanking -INFO - Body added
+2020-10-12 20:56:49,243 - ebanking -INFO - Store selected
+2020-10-12 20:56:49,438 - ebanking -INFO - Role selected
+2020-10-12 20:56:53,906 - ebanking -INFO - Passed
+2020-10-12 21:25:34,461 - ebanking -INFO - *************TC_Login_001*************
+2020-10-12 21:25:34,849 - ebanking -INFO - Entered Username
+2020-10-12 21:25:35,066 - ebanking -INFO - Entered Password
+2020-10-12 21:25:39,752 - ebanking -INFO - Title Matching with expected
+2020-10-12 21:25:48,287 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-12 21:25:53,700 - ebanking -INFO - loggin successfull
+2020-10-12 21:25:59,376 - ebanking -INFO - added email
+2020-10-12 21:25:59,677 - ebanking -INFO - added passsword
+2020-10-12 21:25:59,933 - ebanking -INFO - added firstname
+2020-10-12 21:26:00,215 - ebanking -INFO - added lastname
+2020-10-12 21:26:00,433 - ebanking -INFO - Gender seleted
+2020-10-12 21:26:00,735 - ebanking -INFO - added DOB
+2020-10-12 21:26:01,047 - ebanking -INFO - added company
+2020-10-12 21:26:03,669 - ebanking -INFO - selected Newsletetr
+2020-10-12 21:26:03,992 - ebanking -INFO - selected Manager of Vendor
+2020-10-12 21:26:04,232 - ebanking -INFO - added admin comment
+2020-10-12 21:26:09,423 - ebanking -INFO - Passed
+2020-10-12 21:26:19,212 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-12 21:26:25,046 - ebanking -INFO - Login Successfull
+2020-10-12 21:26:25,168 - ebanking -INFO - Promotion Tab clicked
+2020-10-12 21:26:29,831 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-12 21:26:33,893 - ebanking -INFO - Campains Name added
+2020-10-12 21:26:34,178 - ebanking -INFO - Subject added
+2020-10-12 21:26:34,283 - ebanking -INFO - Body added
+2020-10-12 21:26:34,422 - ebanking -INFO - Store selected
+2020-10-12 21:26:34,558 - ebanking -INFO - Role selected
+2020-10-12 21:26:39,030 - ebanking -INFO - Passed
+2020-10-12 21:26:44,273 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-12 21:26:48,000 - ebanking -INFO - Login Successfull
+2020-10-12 21:26:48,304 - ebanking -INFO - Promotion Tab clicked
+2020-10-12 21:26:52,900 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-12 21:26:57,986 - ebanking -INFO - Campains Name added
+2020-10-12 21:26:58,192 - ebanking -INFO - Subject added
+2020-10-12 21:26:58,364 - ebanking -INFO - Body added
+2020-10-12 21:26:58,549 - ebanking -INFO - Store selected
+2020-10-12 21:26:58,733 - ebanking -INFO - Role selected
+2020-10-12 21:27:02,899 - ebanking -INFO - Passed
+2020-10-12 21:27:08,118 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-12 21:27:11,563 - ebanking -INFO - Login Successfull
+2020-10-12 21:27:12,077 - ebanking -INFO - Promotion Tab clicked
+2020-10-12 21:27:16,531 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-12 21:27:20,568 - ebanking -INFO - Campains Name added
+2020-10-12 21:27:20,867 - ebanking -INFO - Subject added
+2020-10-12 21:27:21,106 - ebanking -INFO - Body added
+2020-10-12 21:27:21,412 - ebanking -INFO - Store selected
+2020-10-12 21:27:21,737 - ebanking -INFO - Role selected
+2020-10-12 21:27:26,107 - ebanking -INFO - Passed
+2020-10-12 21:27:31,261 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-12 21:27:34,528 - ebanking -INFO - Login Successfull
+2020-10-12 21:27:34,670 - ebanking -INFO - Promotion Tab clicked
+2020-10-12 21:27:39,159 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-12 21:27:42,992 - ebanking -INFO - Campains Name added
+2020-10-12 21:27:43,314 - ebanking -INFO - Subject added
+2020-10-12 21:27:43,598 - ebanking -INFO - Body added
+2020-10-12 21:27:43,756 - ebanking -INFO - Store selected
+2020-10-12 21:27:43,944 - ebanking -INFO - Role selected
+2020-10-12 21:27:48,156 - ebanking -INFO - Passed
+2020-10-12 21:27:53,188 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-12 21:27:56,590 - ebanking -INFO - Login Successfull
+2020-10-12 21:27:56,700 - ebanking -INFO - Promotion Tab clicked
+2020-10-12 21:28:01,155 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-12 21:28:05,228 - ebanking -INFO - Campains Name added
+2020-10-12 21:28:05,488 - ebanking -INFO - Subject added
+2020-10-12 21:28:05,704 - ebanking -INFO - Body added
+2020-10-12 21:28:05,977 - ebanking -INFO - Store selected
+2020-10-12 21:28:06,169 - ebanking -INFO - Role selected
+2020-10-12 21:28:10,619 - ebanking -INFO - Passed
+2020-10-12 21:28:15,649 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-12 21:28:19,236 - ebanking -INFO - Login Successfull
+2020-10-12 21:28:19,698 - ebanking -INFO - Promotion Tab clicked
+2020-10-12 21:28:24,122 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-12 21:28:27,939 - ebanking -INFO - Campains Name added
+2020-10-12 21:28:28,088 - ebanking -INFO - Subject added
+2020-10-12 21:28:28,288 - ebanking -INFO - Body added
+2020-10-12 21:28:28,572 - ebanking -INFO - Store selected
+2020-10-12 21:28:28,771 - ebanking -INFO - Role selected
+2020-10-12 21:28:33,309 - ebanking -INFO - Passed
+2020-10-12 21:47:15,298 - ebanking -INFO - *************TC_Login_001*************
+2020-10-12 21:47:15,565 - ebanking -INFO - Entered Username
+2020-10-12 21:47:15,741 - ebanking -INFO - Entered Password
+2020-10-12 21:47:20,925 - ebanking -INFO - Title Matching with expected
+2020-10-12 21:47:29,489 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-12 21:47:35,978 - ebanking -INFO - loggin successfull
+2020-10-12 21:47:40,496 - ebanking -INFO - added email
+2020-10-12 21:47:40,647 - ebanking -INFO - added passsword
+2020-10-12 21:47:40,794 - ebanking -INFO - added firstname
+2020-10-12 21:47:40,951 - ebanking -INFO - added lastname
+2020-10-12 21:47:41,074 - ebanking -INFO - Gender seleted
+2020-10-12 21:47:41,264 - ebanking -INFO - added DOB
+2020-10-12 21:47:41,508 - ebanking -INFO - added company
+2020-10-12 21:47:44,075 - ebanking -INFO - selected Newsletetr
+2020-10-12 21:47:44,286 - ebanking -INFO - selected Manager of Vendor
+2020-10-12 21:47:44,485 - ebanking -INFO - added admin comment
+2020-10-12 21:47:58,957 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-12 21:48:04,674 - ebanking -INFO - Login Successfull
+2020-10-12 21:48:04,767 - ebanking -INFO - Promotion Tab clicked
+2020-10-12 21:48:09,186 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-12 21:48:12,978 - ebanking -INFO - Campains Name added
+2020-10-12 21:48:13,082 - ebanking -INFO - Subject added
+2020-10-12 21:48:13,287 - ebanking -INFO - Body added
+2020-10-12 21:48:13,554 - ebanking -INFO - Store selected
+2020-10-12 21:48:13,730 - ebanking -INFO - Role selected
+2020-10-12 21:48:18,010 - ebanking -INFO - Passed
+2020-10-12 21:48:23,264 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-12 21:48:26,821 - ebanking -INFO - Login Successfull
+2020-10-12 21:48:27,237 - ebanking -INFO - Promotion Tab clicked
+2020-10-12 21:48:31,586 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-12 21:48:35,580 - ebanking -INFO - Campains Name added
+2020-10-12 21:48:35,770 - ebanking -INFO - Subject added
+2020-10-12 21:48:35,975 - ebanking -INFO - Body added
+2020-10-12 21:48:36,130 - ebanking -INFO - Store selected
+2020-10-12 21:48:36,274 - ebanking -INFO - Role selected
+2020-10-12 21:48:40,457 - ebanking -INFO - Passed
+2020-10-12 21:48:45,588 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-12 21:48:48,610 - ebanking -INFO - Login Successfull
+2020-10-12 21:48:48,712 - ebanking -INFO - Promotion Tab clicked
+2020-10-12 21:48:53,093 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-12 21:48:57,166 - ebanking -INFO - Campains Name added
+2020-10-12 21:48:57,457 - ebanking -INFO - Subject added
+2020-10-12 21:48:57,713 - ebanking -INFO - Body added
+2020-10-12 21:48:58,010 - ebanking -INFO - Store selected
+2020-10-12 21:48:58,288 - ebanking -INFO - Role selected
+2020-10-12 21:49:02,397 - ebanking -INFO - Passed
+2020-10-12 21:49:07,547 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-12 21:49:11,473 - ebanking -INFO - Login Successfull
+2020-10-12 21:49:11,914 - ebanking -INFO - Promotion Tab clicked
+2020-10-12 21:49:16,390 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-12 21:49:20,309 - ebanking -INFO - Campains Name added
+2020-10-12 21:49:20,482 - ebanking -INFO - Subject added
+2020-10-12 21:49:20,643 - ebanking -INFO - Body added
+2020-10-12 21:49:20,802 - ebanking -INFO - Store selected
+2020-10-12 21:49:21,021 - ebanking -INFO - Role selected
+2020-10-12 21:49:25,154 - ebanking -INFO - Passed
+2020-10-12 21:49:30,327 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-12 21:49:33,971 - ebanking -INFO - Login Successfull
+2020-10-12 21:49:34,327 - ebanking -INFO - Promotion Tab clicked
+2020-10-12 21:49:38,876 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-12 21:49:43,040 - ebanking -INFO - Campains Name added
+2020-10-12 21:49:43,312 - ebanking -INFO - Subject added
+2020-10-12 21:49:43,524 - ebanking -INFO - Body added
+2020-10-12 21:49:43,694 - ebanking -INFO - Store selected
+2020-10-12 21:49:43,875 - ebanking -INFO - Role selected
+2020-10-12 21:49:48,087 - ebanking -INFO - Passed
+2020-10-12 21:49:53,224 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-12 21:49:56,786 - ebanking -INFO - Login Successfull
+2020-10-12 21:49:56,946 - ebanking -INFO - Promotion Tab clicked
+2020-10-12 21:50:01,472 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-12 21:50:05,420 - ebanking -INFO - Campains Name added
+2020-10-12 21:50:05,662 - ebanking -INFO - Subject added
+2020-10-12 21:50:05,871 - ebanking -INFO - Body added
+2020-10-12 21:50:06,143 - ebanking -INFO - Store selected
+2020-10-12 21:50:06,328 - ebanking -INFO - Role selected
+2020-10-12 21:50:10,918 - ebanking -INFO - Passed
+2020-10-12 22:04:03,359 - ebanking -INFO - *************TC_Login_001*************
+2020-10-12 22:04:03,624 - ebanking -INFO - Entered Username
+2020-10-12 22:04:03,772 - ebanking -INFO - Entered Password
+2020-10-12 22:04:09,650 - ebanking -INFO - Passed
+2020-10-12 22:04:18,184 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-12 22:04:24,962 - ebanking -INFO - loggin successfull
+2020-10-12 22:04:29,081 - ebanking -INFO - added email
+2020-10-12 22:04:29,383 - ebanking -INFO - added passsword
+2020-10-12 22:04:29,658 - ebanking -INFO - added firstname
+2020-10-12 22:04:29,867 - ebanking -INFO - added lastname
+2020-10-12 22:04:29,986 - ebanking -INFO - Gender seleted
+2020-10-12 22:04:30,228 - ebanking -INFO - added DOB
+2020-10-12 22:04:30,535 - ebanking -INFO - added company
+2020-10-12 22:04:33,178 - ebanking -INFO - selected Newsletetr
+2020-10-12 22:04:33,509 - ebanking -INFO - selected Manager of Vendor
+2020-10-12 22:04:33,856 - ebanking -INFO - added admin comment
+2020-10-12 22:16:10,192 - ebanking -INFO - *************TC_Login_001*************
+2020-10-12 22:16:10,403 - ebanking -INFO - Entered Username
+2020-10-12 22:16:10,567 - ebanking -INFO - Entered Password
+2020-10-12 22:16:16,939 - ebanking -INFO - Passed
+2020-10-12 22:30:28,537 - ebanking -INFO - *************TC_Login_001*************
+2020-10-12 22:30:28,786 - ebanking -INFO - Entered Username
+2020-10-12 22:30:28,933 - ebanking -INFO - Entered Password
+2020-10-12 22:30:34,956 - ebanking -INFO - Passed
+2020-10-12 22:34:57,926 - ebanking -INFO - *************TC_Login_001*************
+2020-10-12 22:34:58,169 - ebanking -INFO - Entered Username
+2020-10-12 22:34:58,311 - ebanking -INFO - Entered Password
+2020-10-12 22:35:02,806 - ebanking -INFO - Passed
+2020-10-12 22:37:54,479 - ebanking -INFO - *************TC_Login_001*************
+2020-10-12 22:37:54,715 - ebanking -INFO - Entered Username
+2020-10-12 22:37:54,846 - ebanking -INFO - Entered Password
+2020-10-12 22:37:59,638 - ebanking -INFO - Passed
+2020-10-12 22:53:52,265 - ebanking -INFO - *************TC_Login_001*************
+2020-10-12 22:53:52,624 - ebanking -INFO - Entered Username
+2020-10-12 22:53:52,899 - ebanking -INFO - Entered Password
+2020-10-12 22:54:00,845 - ebanking -INFO - Passed
+2020-10-12 22:56:49,130 - ebanking -INFO - *************TC_Login_001*************
+2020-10-12 22:56:49,363 - ebanking -INFO - Entered Username
+2020-10-12 22:56:49,496 - ebanking -INFO - Entered Password
+2020-10-12 22:56:53,851 - ebanking -INFO - Passed
+2020-10-12 23:06:30,442 - ebanking -INFO - *************TC_Login_001*************
+2020-10-12 23:06:30,746 - ebanking -INFO - Entered Username
+2020-10-12 23:06:31,006 - ebanking -INFO - Entered Password
+2020-10-12 23:06:35,144 - ebanking -INFO - Passed
+2020-10-12 23:15:02,358 - ebanking -INFO - *************TC_Login_001*************
+2020-10-12 23:15:02,605 - ebanking -INFO - Entered Username
+2020-10-12 23:15:02,775 - ebanking -INFO - Entered Password
+2020-10-12 23:15:51,087 - ebanking -INFO - *************TC_Login_001*************
+2020-10-12 23:15:51,424 - ebanking -INFO - Entered Username
+2020-10-12 23:15:51,694 - ebanking -INFO - Entered Password
+2020-10-12 23:15:57,104 - ebanking -INFO - Passed
+2020-10-12 23:18:41,920 - ebanking -INFO - *************TC_Login_001*************
+2020-10-12 23:18:42,237 - ebanking -INFO - Entered Username
+2020-10-12 23:18:42,466 - ebanking -INFO - Entered Password
+2020-10-12 23:18:49,023 - ebanking -INFO - Passed
+2020-10-12 23:20:45,065 - ebanking -INFO - *************TC_Login_001*************
+2020-10-12 23:20:45,394 - ebanking -INFO - Entered Username
+2020-10-12 23:20:45,589 - ebanking -INFO - Entered Password
+2020-10-12 23:20:51,257 - ebanking -INFO - Passed
+2020-10-12 23:20:59,667 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-12 23:21:06,442 - ebanking -INFO - loggin successfull
+2020-10-12 23:21:12,550 - ebanking -INFO - added email
+2020-10-12 23:21:12,671 - ebanking -INFO - added passsword
+2020-10-12 23:21:12,787 - ebanking -INFO - added firstname
+2020-10-12 23:21:12,914 - ebanking -INFO - added lastname
+2020-10-12 23:21:13,015 - ebanking -INFO - Gender seleted
+2020-10-12 23:21:13,154 - ebanking -INFO - added DOB
+2020-10-12 23:21:13,269 - ebanking -INFO - added company
+2020-10-12 23:21:15,591 - ebanking -INFO - selected Newsletetr
+2020-10-12 23:21:15,721 - ebanking -INFO - selected Manager of Vendor
+2020-10-12 23:21:15,848 - ebanking -INFO - added admin comment
+2020-10-12 23:21:20,491 - ebanking -INFO - Passed
+2020-10-12 23:21:30,270 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-12 23:21:34,759 - ebanking -INFO - Login Successfull
+2020-10-12 23:21:34,970 - ebanking -INFO - Promotion Tab clicked
+2020-10-12 23:21:39,849 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-12 23:21:43,790 - ebanking -INFO - Campains Name added
+2020-10-12 23:21:44,030 - ebanking -INFO - Subject added
+2020-10-12 23:21:44,251 - ebanking -INFO - Body added
+2020-10-12 23:21:44,536 - ebanking -INFO - Store selected
+2020-10-12 23:21:44,770 - ebanking -INFO - Role selected
+2020-10-12 23:21:49,260 - ebanking -INFO - Passed
+2020-10-12 23:21:54,549 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-12 23:21:58,278 - ebanking -INFO - Login Successfull
+2020-10-12 23:21:58,713 - ebanking -INFO - Promotion Tab clicked
+2020-10-12 23:22:02,966 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-12 23:22:06,484 - ebanking -INFO - Campains Name added
+2020-10-12 23:22:06,643 - ebanking -INFO - Subject added
+2020-10-12 23:22:06,814 - ebanking -INFO - Body added
+2020-10-12 23:22:06,990 - ebanking -INFO - Store selected
+2020-10-12 23:22:07,174 - ebanking -INFO - Role selected
+2020-10-12 23:22:11,340 - ebanking -INFO - Passed
+2020-10-12 23:22:16,542 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-12 23:22:19,640 - ebanking -INFO - Login Successfull
+2020-10-12 23:22:19,830 - ebanking -INFO - Promotion Tab clicked
+2020-10-12 23:22:24,251 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-12 23:22:28,099 - ebanking -INFO - Campains Name added
+2020-10-12 23:22:28,345 - ebanking -INFO - Subject added
+2020-10-12 23:22:28,561 - ebanking -INFO - Body added
+2020-10-12 23:22:28,818 - ebanking -INFO - Store selected
+2020-10-12 23:22:29,103 - ebanking -INFO - Role selected
+2020-10-12 23:22:33,369 - ebanking -INFO - Passed
+2020-10-12 23:22:38,458 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-12 23:22:41,881 - ebanking -INFO - Login Successfull
+2020-10-12 23:22:42,346 - ebanking -INFO - Promotion Tab clicked
+2020-10-12 23:22:46,679 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-12 23:22:50,496 - ebanking -INFO - Campains Name added
+2020-10-12 23:22:50,672 - ebanking -INFO - Subject added
+2020-10-12 23:22:50,875 - ebanking -INFO - Body added
+2020-10-12 23:22:51,142 - ebanking -INFO - Store selected
+2020-10-12 23:22:51,400 - ebanking -INFO - Role selected
+2020-10-12 23:22:55,432 - ebanking -INFO - Passed
+2020-10-12 23:23:00,471 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-12 23:23:03,948 - ebanking -INFO - Login Successfull
+2020-10-12 23:23:04,417 - ebanking -INFO - Promotion Tab clicked
+2020-10-12 23:23:08,663 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-12 23:23:12,961 - ebanking -INFO - Campains Name added
+2020-10-12 23:23:13,210 - ebanking -INFO - Subject added
+2020-10-12 23:23:13,428 - ebanking -INFO - Body added
+2020-10-12 23:23:13,678 - ebanking -INFO - Store selected
+2020-10-12 23:23:13,956 - ebanking -INFO - Role selected
+2020-10-12 23:23:18,181 - ebanking -INFO - Passed
+2020-10-12 23:23:23,206 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-12 23:23:26,141 - ebanking -INFO - Login Successfull
+2020-10-12 23:23:26,814 - ebanking -INFO - Promotion Tab clicked
+2020-10-12 23:23:31,145 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-12 23:23:34,952 - ebanking -INFO - Campains Name added
+2020-10-12 23:23:35,197 - ebanking -INFO - Subject added
+2020-10-12 23:23:35,399 - ebanking -INFO - Body added
+2020-10-12 23:23:35,642 - ebanking -INFO - Store selected
+2020-10-12 23:23:35,827 - ebanking -INFO - Role selected
+2020-10-12 23:23:40,102 - ebanking -INFO - Passed
+2020-10-13 12:52:21,495 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-13 12:52:25,284 - ebanking -INFO - Login Successfull
+2020-10-13 12:52:25,383 - ebanking -INFO - Promotion Tab clicked
+2020-10-13 12:52:28,922 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-13 12:52:33,428 - ebanking -INFO - Campains Name added
+2020-10-13 12:52:33,612 - ebanking -INFO - Subject added
+2020-10-13 12:52:33,767 - ebanking -INFO - Body added
+2020-10-13 12:52:33,942 - ebanking -INFO - Store selected
+2020-10-13 12:52:34,136 - ebanking -INFO - Role selected
+2020-10-13 12:52:38,171 - ebanking -INFO - Campaign added successfully
+2020-10-13 12:52:38,171 - ebanking -INFO - Passed
+2020-10-13 12:52:43,095 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-13 12:52:46,019 - ebanking -INFO - Login Successfull
+2020-10-13 12:52:46,318 - ebanking -INFO - Promotion Tab clicked
+2020-10-13 12:52:50,560 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-13 12:52:54,413 - ebanking -INFO - Campains Name added
+2020-10-13 12:52:54,596 - ebanking -INFO - Subject added
+2020-10-13 12:52:54,762 - ebanking -INFO - Body added
+2020-10-13 12:52:54,956 - ebanking -INFO - Store selected
+2020-10-13 12:52:55,145 - ebanking -INFO - Role selected
+2020-10-13 12:52:59,068 - ebanking -INFO - Campaign added successfully
+2020-10-13 12:52:59,069 - ebanking -INFO - Passed
+2020-10-13 12:53:03,788 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-13 12:53:06,769 - ebanking -INFO - Login Successfull
+2020-10-13 12:53:06,884 - ebanking -INFO - Promotion Tab clicked
+2020-10-13 12:53:11,634 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-13 12:53:15,198 - ebanking -INFO - Campains Name added
+2020-10-13 12:53:15,358 - ebanking -INFO - Subject added
+2020-10-13 12:53:15,500 - ebanking -INFO - Body added
+2020-10-13 12:53:15,662 - ebanking -INFO - Store selected
+2020-10-13 12:53:15,830 - ebanking -INFO - Role selected
+2020-10-13 12:53:19,719 - ebanking -INFO - Campaign added successfully
+2020-10-13 12:53:19,720 - ebanking -INFO - Passed
+2020-10-13 12:53:24,468 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-13 12:53:27,401 - ebanking -INFO - Login Successfull
+2020-10-13 12:53:27,983 - ebanking -INFO - Promotion Tab clicked
+2020-10-13 12:53:32,661 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-13 12:53:36,454 - ebanking -INFO - Campains Name added
+2020-10-13 12:53:36,630 - ebanking -INFO - Subject added
+2020-10-13 12:53:36,784 - ebanking -INFO - Body added
+2020-10-13 12:53:36,980 - ebanking -INFO - Store selected
+2020-10-13 12:53:37,182 - ebanking -INFO - Role selected
+2020-10-13 12:53:41,254 - ebanking -INFO - Campaign added successfully
+2020-10-13 12:53:41,255 - ebanking -INFO - Passed
+2020-10-13 12:53:45,989 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-13 12:53:49,042 - ebanking -INFO - Login Successfull
+2020-10-13 12:53:49,137 - ebanking -INFO - Promotion Tab clicked
+2020-10-13 12:53:54,242 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-13 12:53:58,101 - ebanking -INFO - Campains Name added
+2020-10-13 12:53:58,247 - ebanking -INFO - Subject added
+2020-10-13 12:53:58,406 - ebanking -INFO - Body added
+2020-10-13 12:53:58,592 - ebanking -INFO - Store selected
+2020-10-13 12:53:58,782 - ebanking -INFO - Role selected
+2020-10-13 12:54:02,955 - ebanking -INFO - Campaign added successfully
+2020-10-13 12:54:02,956 - ebanking -INFO - Passed
+2020-10-13 12:54:07,716 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-13 12:54:11,039 - ebanking -INFO - Login Successfull
+2020-10-13 12:54:11,534 - ebanking -INFO - Promotion Tab clicked
+2020-10-13 12:54:16,100 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-13 12:54:19,656 - ebanking -INFO - Campains Name added
+2020-10-13 12:54:19,797 - ebanking -INFO - Subject added
+2020-10-13 12:54:19,970 - ebanking -INFO - Body added
+2020-10-13 12:54:20,151 - ebanking -INFO - Store selected
+2020-10-13 12:54:20,286 - ebanking -INFO - Role selected
+2020-10-13 12:54:24,189 - ebanking -INFO - Campaign added successfully
+2020-10-13 12:54:24,190 - ebanking -INFO - Passed
+2020-10-13 12:59:23,470 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-13 12:59:29,735 - ebanking -INFO - Login Successfull
+2020-10-13 12:59:29,828 - ebanking -INFO - Promotion Tab clicked
+2020-10-13 12:59:33,621 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-13 12:59:37,815 - ebanking -INFO - Campains Name added
+2020-10-13 12:59:38,104 - ebanking -INFO - Subject added
+2020-10-13 12:59:38,237 - ebanking -INFO - Body added
+2020-10-13 12:59:38,478 - ebanking -INFO - Store selected
+2020-10-13 12:59:38,795 - ebanking -INFO - Role selected
+2020-10-13 12:59:43,113 - ebanking -INFO - Campaign added successfully
+2020-10-13 12:59:43,114 - ebanking -INFO - Passed
+2020-10-13 12:59:48,214 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-13 12:59:51,419 - ebanking -INFO - Login Successfull
+2020-10-13 12:59:51,538 - ebanking -INFO - Promotion Tab clicked
+2020-10-13 12:59:55,195 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-13 12:59:59,107 - ebanking -INFO - Campains Name added
+2020-10-13 12:59:59,400 - ebanking -INFO - Subject added
+2020-10-13 12:59:59,681 - ebanking -INFO - Body added
+2020-10-13 12:59:59,880 - ebanking -INFO - Store selected
+2020-10-13 13:00:00,042 - ebanking -INFO - Role selected
+2020-10-13 13:00:04,239 - ebanking -INFO - Campaign added successfully
+2020-10-13 13:00:04,240 - ebanking -INFO - Passed
+2020-10-13 13:00:09,361 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-13 13:00:58,676 - ebanking -INFO - Login Successfull
+2020-10-13 13:00:58,886 - ebanking -INFO - Promotion Tab clicked
+2020-10-13 13:01:02,476 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-13 13:01:06,895 - ebanking -INFO - Campains Name added
+2020-10-13 13:01:07,169 - ebanking -INFO - Subject added
+2020-10-13 13:01:07,399 - ebanking -INFO - Body added
+2020-10-13 13:01:07,681 - ebanking -INFO - Store selected
+2020-10-13 13:01:07,999 - ebanking -INFO - Role selected
+2020-10-13 13:01:12,155 - ebanking -INFO - Campaign added successfully
+2020-10-13 13:01:12,156 - ebanking -INFO - Passed
+2020-10-13 13:01:17,253 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-13 13:01:20,711 - ebanking -INFO - Login Successfull
+2020-10-13 13:01:20,869 - ebanking -INFO - Promotion Tab clicked
+2020-10-13 13:01:24,486 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-13 13:01:28,454 - ebanking -INFO - Campains Name added
+2020-10-13 13:01:28,731 - ebanking -INFO - Subject added
+2020-10-13 13:01:28,948 - ebanking -INFO - Body added
+2020-10-13 13:01:29,239 - ebanking -INFO - Store selected
+2020-10-13 13:01:29,531 - ebanking -INFO - Role selected
+2020-10-13 13:01:33,943 - ebanking -INFO - Campaign added successfully
+2020-10-13 13:01:33,944 - ebanking -INFO - Passed
+2020-10-13 13:01:39,008 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-13 13:01:40,913 - ebanking -INFO - Login Successfull
+2020-10-13 13:01:52,978 - ebanking -INFO - *************TC_AddCampaign_003****************
