@@ -13,7 +13,7 @@ public class TC_AddGiftCard_004 extends BaseClass{
 	
 	@Test
 	public void addGiftCardTest() throws InterruptedException, IOException {
-		logger.info("*************TC_AddCustomer_002*************");
+		logger.info("*************TC_AddGiftCard_004*************");
 		LoginPage lp= new LoginPage(driver);
 		lp.setUsername(config.getUsername());
 		lp.setPassword(config.getPassword());
@@ -48,8 +48,9 @@ public class TC_AddGiftCard_004 extends BaseClass{
 		}
 		else
 		{	captureScreen(driver,"addGiftCardTest");
-			Assert.assertTrue(false);
 			logger.info("Failed");
+			Assert.assertTrue(false);
+
 		}
 			
 		

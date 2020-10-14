@@ -45,18 +45,18 @@ public class TC_AddCampaignDDT_003 extends BaseClass {
 		Thread.sleep(2000);
 
 		if (driver.getPageSource().contains("The new campaign has been added successfully.")) {
-			Assert.assertTrue(true);
 			logger.info("Campaign added successfully");
 			logger.info("Passed");
 			lp.clickLogout();
 			Thread.sleep(3000);
+			Assert.assertTrue(true);
 
 		} else {
 			captureScreen(driver,"addCampaignTest");
-			Assert.assertTrue(false);
 			logger.info("Failed");
 			lp.clickLogout();
 			Thread.sleep(3000);
+			Assert.assertTrue(false);
 		}
 
 	}

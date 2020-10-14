@@ -21,13 +21,14 @@ public class TC_Login_001 extends BaseClass{
 		
 		
 		if(driver.getTitle().equals("Dashboard / nopCommerce administration")) {
+			logger.info("Titile matched successfully");
 			Assert.assertTrue(true);
-			logger.info("Passed");
 		}
 		else {
 			captureScreen(driver,"loginTest");
-			Assert.assertTrue(false);
 			logger.info("Failed");
+			Assert.assertTrue(false);
+			
 		}
 		
 	}
