@@ -1,3 +1,0 @@
-this is master file created before pushing code from branch-shweta into master branch
-Editing this file after pull request from others.
-this is third line
