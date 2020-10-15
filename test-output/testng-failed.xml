@@ -4,34 +4,13 @@
   <listeners>
     <listener class-name="com.nopCommerce.Utilities.Reporting"/>
   </listeners>
-  <test thread-count="5" name="Test(failed)" verbose="5">
-    <parameter name="browser" value="${browserName}"/>
+  <test thread-count="5" parallel="classes" name="Test(failed)" verbose="5">
+    <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.nopCommerce.TestCases.TC_Login_001">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-          <include name="loginTest"/>
-        </methods>
-      </class> <!-- com.nopCommerce.TestCases.TC_Login_001 -->
-      <class name="com.nopCommerce.TestCases.TC_AddCampaignDDT_003">
-        <methods>
-          <include name="tearDown"/>
-          <include name="addCampaignTest"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- com.nopCommerce.TestCases.TC_AddCampaignDDT_003 -->
-      <class name="com.nopCommerce.TestCases.TC_AddGiftCard_004">
-        <methods>
-          <include name="addGiftCardTest"/>
-          <include name="tearDown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- com.nopCommerce.TestCases.TC_AddGiftCard_004 -->
       <class name="com.nopCommerce.TestCases.TC_AddCustomer_002">
         <methods>
+          <include name="CustomerAdditionWithDuplicateEmailCheck"/>
           <include name="tearDown"/>
-          <include name="addNewCustomerTest"/>
           <include name="setup"/>
         </methods>
       </class> <!-- com.nopCommerce.TestCases.TC_AddCustomer_002 -->

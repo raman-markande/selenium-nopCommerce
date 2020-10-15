@@ -11,7 +11,8 @@
 			<class name="com.nopCommerce.TestCases.TC_AddCustomer_002" />
 			<class name="com.nopCommerce.TestCases.TC_AddCampaignDDT_003" />
 			<class name="com.nopCommerce.TestCases.TC_AddGiftCard_004" />
-			
+
+
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

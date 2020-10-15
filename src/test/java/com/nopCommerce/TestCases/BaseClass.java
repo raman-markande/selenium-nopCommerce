@@ -5,6 +5,7 @@ import java.io.File;
 import java.io.IOException;
 
 import org.apache.commons.io.FileUtils;
+import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.OutputType;
@@ -25,8 +26,8 @@ public class BaseClass {
 	public String baseURL= config.getbaseURL();
 	public String username=config.getUsername();
 	public String password=config.getPassword();
-	public static WebDriver driver;
-	public static Logger logger;
+	public WebDriver driver;
+	public Logger logger;
 	
 	
 	@Parameters("browser")
@@ -61,6 +62,11 @@ public class BaseClass {
 		File target = new File(System.getProperty("user.dir") + "/Screenshots/" + tname + ".png");
 		FileUtils.copyFile(source, target);
 		System.out.println("Screenshot taken");
+	}
+	
+	
+	public String randomAlphabeticString(int c) {
+		return RandomStringUtils.randomAlphabetic(c);
 	}
 	
 
