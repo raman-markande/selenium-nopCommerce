@@ -77,7 +77,9 @@ public class TC_AddCustomer_002 extends BaseClass{
 		logger.info("loggin successfull");
 		
 		AddCustomerPage acp= new AddCustomerPage(driver);
-		acp.clickCustomerTab();
+		
+		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("(//span[contains(text(),'Customers')])[1]"))).click();
+		//acp.clickCustomerTab();
 		acp.clickCustomerSubTab();
 		
 		//WebDriverWait wait = new WebDriverWait(driver,10);
