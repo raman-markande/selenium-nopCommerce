@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="7" passed="6" failed="1" skipped="0">
+<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-10-15T23:53:47 IST" name="Suite" finished-at="2020-10-15T23:55:10 IST" duration-ms="83231">
+  <suite started-at="2020-10-16T00:07:21 IST" name="Suite" finished-at="2020-10-16T00:07:37 IST" duration-ms="16556">
     <groups>
     </groups>
-    <test started-at="2020-10-15T23:53:47 IST" name="Test" finished-at="2020-10-15T23:55:10 IST" duration-ms="83231">
-      <class name="com.nopCommerce.TestCases.TC_AddCustomer_002">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.nopCommerce.TestCases.TC_AddCustomer_002@1f0f1111]" started-at="2020-10-15T23:54:04 IST" name="setup" finished-at="2020-10-15T23:54:11 IST" duration-ms="7595" status="PASS">
+    <test started-at="2020-10-16T00:07:21 IST" name="Test" finished-at="2020-10-16T00:07:37 IST" duration-ms="16556">
+      <class name="com.nopCommerce.TestCases.TC_Login_001">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.nopCommerce.TestCases.TC_Login_001@71b1176b]" started-at="2020-10-16T00:07:21 IST" name="setup" finished-at="2020-10-16T00:07:30 IST" duration-ms="8825" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,53 +18,14 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="addNewCustomerTest()[pri:1, instance:com.nopCommerce.TestCases.TC_AddCustomer_002@1f0f1111]" started-at="2020-10-15T23:54:11 IST" name="addNewCustomerTest" finished-at="2020-10-15T23:54:35 IST" duration-ms="23685" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addNewCustomerTest -->
-        <test-method signature="CustomerAdditionWithDuplicateEmailCheck()[pri:2, instance:com.nopCommerce.TestCases.TC_AddCustomer_002@1f0f1111]" started-at="2020-10-15T23:54:35 IST" name="CustomerAdditionWithDuplicateEmailCheck" finished-at="2020-10-15T23:54:35 IST" duration-ms="361" status="FAIL">
-          <exception class="org.openqa.selenium.NoSuchElementException">
-            <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"(//span[contains(text(),'Customers')])[1]"}
-  (Session info: chrome=86.0.4240.75)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'LAPTOP-RLPFVKCU', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:60885}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: de7aa345034d4dfde0e3ac6900ea6fc6
-*** Element info: {Using=xpath, value=(//span[contains(text(),'Customers')])[1]}]]>
-            </message>
+        <test-method signature="loginTest()[pri:0, instance:com.nopCommerce.TestCases.TC_Login_001@71b1176b]" started-at="2020-10-16T00:07:30 IST" name="loginTest" finished-at="2020-10-16T00:07:37 IST" duration-ms="6330" status="FAIL">
+          <exception class="java.lang.AssertionError">
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//span[contains(text(),'Customers')])[1]"}
-  (Session info: chrome=86.0.4240.75)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'LAPTOP-RLPFVKCU', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:60885}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: de7aa345034d4dfde0e3ac6900ea6fc6
-*** Element info: {Using=xpath, value=(//span[contains(text(),'Customers')])[1]}
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-at com.sun.proxy.$Proxy16.click(Unknown Source)
-at com.nopCommerce.PageObjects.AddCustomerPage.clickCustomerTab(AddCustomerPage.java:113)
-at com.nopCommerce.TestCases.TC_AddCustomer_002.CustomerAdditionWithDuplicateEmailCheck(TC_AddCustomer_002.java:80)
+              <![CDATA[java.lang.AssertionError
+at org.junit.Assert.fail(Assert.java:86)
+at org.junit.Assert.assertTrue(Assert.java:41)
+at org.junit.Assert.assertTrue(Assert.java:52)
+at com.nopCommerce.TestCases.TC_Login_001.loginTest(TC_Login_001.java:30)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -82,167 +43,15 @@ at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecut
 at java.base/java.lang.Thread.run(Thread.java:832)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- CustomerAdditionWithDuplicateEmailCheck -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nopCommerce.TestCases.TC_AddCustomer_002@1f0f1111]" started-at="2020-10-15T23:54:35 IST" name="tearDown" finished-at="2020-10-15T23:54:36 IST" duration-ms="826" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.nopCommerce.TestCases.TC_AddCustomer_002 -->
-      <class name="com.nopCommerce.TestCases.TC_Login_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.nopCommerce.TestCases.TC_Login_001@670002]" started-at="2020-10-15T23:53:47 IST" name="setup" finished-at="2020-10-15T23:53:56 IST" duration-ms="9524" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="loginTest()[pri:0, instance:com.nopCommerce.TestCases.TC_Login_001@670002]" started-at="2020-10-15T23:53:56 IST" name="loginTest" finished-at="2020-10-15T23:54:03 IST" duration-ms="6237" status="PASS">
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nopCommerce.TestCases.TC_Login_001@670002]" started-at="2020-10-15T23:54:03 IST" name="tearDown" finished-at="2020-10-15T23:54:04 IST" duration-ms="788" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nopCommerce.TestCases.TC_Login_001@71b1176b]" started-at="2020-10-16T00:07:37 IST" name="tearDown" finished-at="2020-10-16T00:07:37 IST" duration-ms="708" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.nopCommerce.TestCases.TC_Login_001 -->
-      <class name="com.nopCommerce.TestCases.TC_AddGiftCard_004">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.nopCommerce.TestCases.TC_AddGiftCard_004@56528192]" started-at="2020-10-15T23:53:47 IST" name="setup" finished-at="2020-10-15T23:53:56 IST" duration-ms="9447" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="addGiftCardTest()[pri:0, instance:com.nopCommerce.TestCases.TC_AddGiftCard_004@56528192]" started-at="2020-10-15T23:53:56 IST" name="addGiftCardTest" finished-at="2020-10-15T23:54:16 IST" duration-ms="19448" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addGiftCardTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nopCommerce.TestCases.TC_AddGiftCard_004@56528192]" started-at="2020-10-15T23:54:16 IST" name="tearDown" finished-at="2020-10-15T23:54:17 IST" duration-ms="813" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.nopCommerce.TestCases.TC_AddGiftCard_004 -->
-      <class name="com.nopCommerce.TestCases.TC_AddCampaignDDT_003">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.nopCommerce.TestCases.TC_AddCampaignDDT_003@49c386c8]" started-at="2020-10-15T23:53:47 IST" name="setup" finished-at="2020-10-15T23:53:57 IST" duration-ms="9537" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="addCampaignTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.nopCommerce.TestCases.TC_AddCampaignDDT_003@49c386c8]" started-at="2020-10-15T23:53:58 IST" name="addCampaignTest" data-provider="CampaingnsData" finished-at="2020-10-15T23:54:23 IST" duration-ms="24754" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Camp1]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Nation]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Nation]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Your store name]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[Administrators]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addCampaignTest -->
-        <test-method signature="addCampaignTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.nopCommerce.TestCases.TC_AddCampaignDDT_003@49c386c8]" started-at="2020-10-15T23:54:23 IST" name="addCampaignTest" data-provider="CampaingnsData" finished-at="2020-10-15T23:54:46 IST" duration-ms="23228" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Camp2]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Pollution]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Pollution]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Test store 2]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[Forum Moderators]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addCampaignTest -->
-        <test-method signature="addCampaignTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.nopCommerce.TestCases.TC_AddCampaignDDT_003@49c386c8]" started-at="2020-10-15T23:54:46 IST" name="addCampaignTest" data-provider="CampaingnsData" finished-at="2020-10-15T23:55:09 IST" duration-ms="22727" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Camp3]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Election]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Election]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Test store 2]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[Vendors]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addCampaignTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nopCommerce.TestCases.TC_AddCampaignDDT_003@49c386c8]" started-at="2020-10-15T23:55:09 IST" name="tearDown" finished-at="2020-10-15T23:55:10 IST" duration-ms="830" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.nopCommerce.TestCases.TC_AddCampaignDDT_003 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

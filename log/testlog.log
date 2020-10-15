@@ -62,3 +62,7 @@
 2020-10-15 23:55:00,112 - ebanking -INFO - Role selected
 2020-10-15 23:55:04,408 - ebanking -INFO - Campaign added successfully
 2020-10-15 23:55:04,409 - ebanking -INFO - Passed
+2020-10-16 00:07:30,750 - ebanking -INFO - *************TC_Login_001*************
+2020-10-16 00:07:31,001 - ebanking -INFO - Entered Username
+2020-10-16 00:07:31,135 - ebanking -INFO - Entered Password
+2020-10-16 00:07:37,066 - ebanking -INFO - Failed

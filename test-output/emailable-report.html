@@ -9,39 +9,15 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="8">Suite</th></tr>
-<tr><td><a href="#t0">Test</a></td><td class="num">6</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">83,231</td><td></td><td></td></tr>
+<tr><td><a href="#t0">Test</a></td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">16,556</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.nopCommerce.TestCases.TC_AddCustomer_002</td><td><a href="#m0">CustomerAdditionWithDuplicateEmailCheck</a></td><td rowspan="1">1602786275347</td><td rowspan="1">361</td></tr><tr><th colspan="4">Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="3">com.nopCommerce.TestCases.TC_AddCampaignDDT_003</td><td><a href="#m1">addCampaignTest</a></td><td rowspan="3">1602786286684</td><td rowspan="3">22727</td></tr><tr class="passedeven"><td><a href="#m2">addCampaignTest</a></td></tr><tr class="passedeven"><td><a href="#m3">addCampaignTest</a></td></tr><tr class="passedodd"><td rowspan="1">com.nopCommerce.TestCases.TC_AddCustomer_002</td><td><a href="#m4">addNewCustomerTest</a></td><td rowspan="1">1602786251657</td><td rowspan="1">23685</td></tr><tr class="passedeven"><td rowspan="1">com.nopCommerce.TestCases.TC_AddGiftCard_004</td><td><a href="#m5">addGiftCardTest</a></td><td rowspan="1">1602786236939</td><td rowspan="1">19448</td></tr><tr class="passedodd"><td rowspan="1">com.nopCommerce.TestCases.TC_Login_001</td><td><a href="#m6">loginTest</a></td><td rowspan="1">1602786236998</td><td rowspan="1">6237</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.nopCommerce.TestCases.TC_Login_001</td><td><a href="#m0">loginTest</a></td><td rowspan="1">1602787050739</td><td rowspan="1">6330</td></tr></tbody>
 </table>
-<h2>Test</h2><h3 id="m0">com.nopCommerce.TestCases.TC_AddCustomer_002#CustomerAdditionWithDuplicateEmailCheck</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//span[contains(text(),&apos;Customers&apos;)])[1]&quot;}
-  (Session info: chrome=86.0.4240.75)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;LAPTOP-RLPFVKCU&apos;, ip: &apos;192.168.56.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;14.0.2&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:60885}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: de7aa345034d4dfde0e3ac6900ea6fc6
-*** Element info: {Using=xpath, value=(//span[contains(text(),&apos;Customers&apos;)])[1]}
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy16.click(Unknown Source)
-	at com.nopCommerce.PageObjects.AddCustomerPage.clickCustomerTab(AddCustomerPage.java:113)
-	at com.nopCommerce.TestCases.TC_AddCustomer_002.CustomerAdditionWithDuplicateEmailCheck(TC_AddCustomer_002.java:80)
+<h2>Test</h2><h3 id="m0">com.nopCommerce.TestCases.TC_Login_001#loginTest</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at com.nopCommerce.TestCases.TC_Login_001.loginTest(TC_Login_001.java:30)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -58,11 +34,5 @@ Session ID: de7aa345034d4dfde0e3ac6900ea6fc6
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
 	at java.base/java.lang.Thread.run(Thread.java:832)
 </div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">com.nopCommerce.TestCases.TC_AddCampaignDDT_003#addCampaignTest</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th></tr><tr class="param stripe"><td>Camp3</td><td>Election</td><td>Election</td><td>Test store 2</td><td>Vendors</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">com.nopCommerce.TestCases.TC_AddCampaignDDT_003#addCampaignTest</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th></tr><tr class="param stripe"><td>Camp2</td><td>Pollution</td><td>Pollution</td><td>Test store 2</td><td>Forum Moderators</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m3">com.nopCommerce.TestCases.TC_AddCampaignDDT_003#addCampaignTest</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th><th>Parameter #4</th><th>Parameter #5</th></tr><tr class="param stripe"><td>Camp1</td><td>Nation</td><td>Nation</td><td>Your store name</td><td>Administrators</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m4">com.nopCommerce.TestCases.TC_AddCustomer_002#addNewCustomerTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m5">com.nopCommerce.TestCases.TC_AddGiftCard_004#addGiftCardTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m6">com.nopCommerce.TestCases.TC_Login_001#loginTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

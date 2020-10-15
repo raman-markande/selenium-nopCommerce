@@ -62,3 +62,7 @@
 2020-10-15 23:55:00,112 [TestNG-test=Test-1] INFO ebanking - Role selected
 2020-10-15 23:55:04,408 [TestNG-test=Test-1] INFO ebanking - Campaign added successfully
 2020-10-15 23:55:04,409 [TestNG-test=Test-1] INFO ebanking - Passed
+2020-10-16 00:07:30,750 [TestNG-test=Test-1] INFO ebanking - *************TC_Login_001*************
+2020-10-16 00:07:31,001 [TestNG-test=Test-1] INFO ebanking - Entered Username
+2020-10-16 00:07:31,135 [TestNG-test=Test-1] INFO ebanking - Entered Password
+2020-10-16 00:07:37,066 [TestNG-test=Test-1] INFO ebanking - Failed
