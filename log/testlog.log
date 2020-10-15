@@ -973,3 +973,179 @@
 2020-10-14 21:42:54,994 - ebanking -INFO - Clicked on Save
 2020-10-14 21:42:57,031 - ebanking -INFO - Gift Card added successfully
 2020-10-14 21:42:57,032 - ebanking -INFO - Passed
+2020-10-15 19:55:10,613 - ebanking -INFO - *************TC_Login_001*************
+2020-10-15 19:55:10,864 - ebanking -INFO - Entered Username
+2020-10-15 19:55:11,017 - ebanking -INFO - Entered Password
+2020-10-15 19:55:17,649 - ebanking -INFO - Titile matched successfully
+2020-10-15 19:55:26,066 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-15 19:55:32,535 - ebanking -INFO - loggin successfull
+2020-10-15 19:55:37,215 - ebanking -INFO - added email
+2020-10-15 19:55:37,408 - ebanking -INFO - added passsword
+2020-10-15 19:55:37,531 - ebanking -INFO - added firstname
+2020-10-15 19:55:37,710 - ebanking -INFO - added lastname
+2020-10-15 19:55:37,932 - ebanking -INFO - Gender seleted
+2020-10-15 19:55:38,236 - ebanking -INFO - added DOB
+2020-10-15 19:55:38,499 - ebanking -INFO - added company
+2020-10-15 19:55:41,087 - ebanking -INFO - selected Newsletetr
+2020-10-15 19:55:41,441 - ebanking -INFO - selected Manager of Vendor
+2020-10-15 19:55:41,731 - ebanking -INFO - added admin comment
+2020-10-15 19:55:46,597 - ebanking -INFO - Customer added successfully
+2020-10-15 19:55:46,598 - ebanking -INFO - Passed
+2020-10-15 19:55:56,288 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 19:56:00,409 - ebanking -INFO - Login Successfull
+2020-10-15 19:56:00,504 - ebanking -INFO - Promotion Tab clicked
+2020-10-15 19:56:04,890 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-15 19:56:08,930 - ebanking -INFO - Campains Name added
+2020-10-15 19:56:09,188 - ebanking -INFO - Subject added
+2020-10-15 19:56:09,423 - ebanking -INFO - Body added
+2020-10-15 19:56:09,713 - ebanking -INFO - Store selected
+2020-10-15 19:56:09,994 - ebanking -INFO - Role selected
+2020-10-15 19:56:14,487 - ebanking -INFO - Campaign added successfully
+2020-10-15 19:56:14,488 - ebanking -INFO - Passed
+2020-10-15 19:56:19,451 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 19:56:22,559 - ebanking -INFO - Login Successfull
+2020-10-15 19:56:22,828 - ebanking -INFO - Promotion Tab clicked
+2020-10-15 19:56:27,281 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-15 19:56:30,788 - ebanking -INFO - Campains Name added
+2020-10-15 19:56:30,966 - ebanking -INFO - Subject added
+2020-10-15 19:56:31,135 - ebanking -INFO - Body added
+2020-10-15 19:56:31,307 - ebanking -INFO - Store selected
+2020-10-15 19:56:31,467 - ebanking -INFO - Role selected
+2020-10-15 19:56:35,452 - ebanking -INFO - Campaign added successfully
+2020-10-15 19:56:35,452 - ebanking -INFO - Passed
+2020-10-15 19:56:40,377 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 19:56:43,262 - ebanking -INFO - Login Successfull
+2020-10-15 19:56:43,381 - ebanking -INFO - Promotion Tab clicked
+2020-10-15 19:56:47,932 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-15 19:56:51,795 - ebanking -INFO - Campains Name added
+2020-10-15 19:56:51,939 - ebanking -INFO - Subject added
+2020-10-15 19:56:52,089 - ebanking -INFO - Body added
+2020-10-15 19:56:52,267 - ebanking -INFO - Store selected
+2020-10-15 19:56:52,453 - ebanking -INFO - Role selected
+2020-10-15 19:56:56,480 - ebanking -INFO - Campaign added successfully
+2020-10-15 19:56:56,481 - ebanking -INFO - Passed
+2020-10-15 19:57:10,191 - ebanking -INFO - *************TC_AddGiftCard_004*************
+2020-10-15 19:57:17,269 - ebanking -INFO - loggin successfull
+2020-10-15 19:57:19,511 - ebanking -INFO - Clicked on Sales Tab
+2020-10-15 19:57:21,301 - ebanking -INFO - Clicked on Gift Card Sub Tab
+2020-10-15 19:57:25,241 - ebanking -INFO - Clicked on Add New
+2020-10-15 19:57:25,539 - ebanking -INFO - Selected Order Type
+2020-10-15 19:57:25,653 - ebanking -INFO - Recipient Added
+2020-10-15 19:57:25,787 - ebanking -INFO - Sender Added
+2020-10-15 19:57:29,161 - ebanking -INFO - Clicked on Save
+2020-10-15 19:57:31,207 - ebanking -INFO - Gift Card added successfully
+2020-10-15 19:57:31,208 - ebanking -INFO - Passed
+2020-10-15 20:00:04,011 - ebanking -INFO - *************TC_Login_001*************
+2020-10-15 20:00:04,030 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-15 20:00:04,058 - ebanking -INFO - *************TC_AddGiftCard_004*************
+2020-10-15 20:00:04,648 - ebanking -INFO - Entered Username
+2020-10-15 20:00:05,161 - ebanking -INFO - Entered Password
+2020-10-15 20:00:05,424 - ebanking -INFO - loggin successfull
+2020-10-15 20:00:05,779 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 20:00:05,788 - ebanking -INFO - loggin successfull
+2020-10-15 20:00:06,299 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 20:00:10,326 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 20:01:13,980 - ebanking -INFO - *************TC_Login_001*************
+2020-10-15 20:01:13,980 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-15 20:01:14,359 - ebanking -INFO - Entered Username
+2020-10-15 20:01:14,846 - ebanking -INFO - Entered Password
+2020-10-15 20:01:15,153 - ebanking -INFO - loggin successfull
+2020-10-15 20:01:15,821 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 20:01:15,824 - ebanking -INFO - Failed
+2020-10-15 20:01:20,961 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 20:01:24,113 - ebanking -INFO - *************TC_AddGiftCard_004*************
+2020-10-15 20:01:24,621 - ebanking -INFO - Login Successfull
+2020-10-15 20:01:24,648 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 20:01:24,686 - ebanking -INFO - loggin successfull
+2020-10-15 20:02:27,724 - ebanking -INFO - *************TC_Login_001*************
+2020-10-15 20:02:27,724 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-15 20:02:28,122 - ebanking -INFO - Entered Username
+2020-10-15 20:02:28,409 - ebanking -INFO - Entered Password
+2020-10-15 20:02:28,539 - ebanking -INFO - loggin successfull
+2020-10-15 20:02:29,173 - ebanking -INFO - Failed
+2020-10-15 20:02:39,152 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 20:02:39,763 - ebanking -INFO - *************TC_AddGiftCard_004*************
+2020-10-15 20:02:40,318 - ebanking -INFO - Login Successfull
+2020-10-15 20:02:40,355 - ebanking -INFO - loggin successfull
+2020-10-15 20:02:40,370 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 20:02:40,574 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 20:04:28,147 - ebanking -INFO - *************TC_Login_001*************
+2020-10-15 20:04:28,348 - ebanking -INFO - Entered Username
+2020-10-15 20:04:28,470 - ebanking -INFO - Entered Password
+2020-10-15 20:04:34,804 - ebanking -INFO - Titile matched successfully
+2020-10-15 20:04:43,263 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-15 20:04:48,538 - ebanking -INFO - loggin successfull
+2020-10-15 20:04:54,164 - ebanking -INFO - added email
+2020-10-15 20:04:54,458 - ebanking -INFO - added passsword
+2020-10-15 20:04:54,685 - ebanking -INFO - added firstname
+2020-10-15 20:04:54,914 - ebanking -INFO - added lastname
+2020-10-15 20:04:55,096 - ebanking -INFO - Gender seleted
+2020-10-15 20:04:55,378 - ebanking -INFO - added DOB
+2020-10-15 20:04:55,674 - ebanking -INFO - added company
+2020-10-15 20:04:58,283 - ebanking -INFO - selected Newsletetr
+2020-10-15 20:04:58,667 - ebanking -INFO - selected Manager of Vendor
+2020-10-15 20:04:58,886 - ebanking -INFO - added admin comment
+2020-10-15 20:05:03,372 - ebanking -INFO - Failed
+2020-10-15 20:05:11,909 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 20:05:16,539 - ebanking -INFO - Login Successfull
+2020-10-15 20:05:16,731 - ebanking -INFO - Promotion Tab clicked
+2020-10-15 20:05:21,353 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-15 20:05:25,234 - ebanking -INFO - Campains Name added
+2020-10-15 20:05:25,484 - ebanking -INFO - Subject added
+2020-10-15 20:05:25,733 - ebanking -INFO - Body added
+2020-10-15 20:05:25,963 - ebanking -INFO - Store selected
+2020-10-15 20:05:26,157 - ebanking -INFO - Role selected
+2020-10-15 20:05:30,651 - ebanking -INFO - Campaign added successfully
+2020-10-15 20:05:30,652 - ebanking -INFO - Passed
+2020-10-15 20:05:35,793 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 20:05:39,623 - ebanking -INFO - Login Successfull
+2020-10-15 20:05:39,835 - ebanking -INFO - Promotion Tab clicked
+2020-10-15 20:05:44,178 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-15 20:05:48,172 - ebanking -INFO - Campains Name added
+2020-10-15 20:05:48,441 - ebanking -INFO - Subject added
+2020-10-15 20:05:48,672 - ebanking -INFO - Body added
+2020-10-15 20:05:48,967 - ebanking -INFO - Store selected
+2020-10-15 20:05:49,269 - ebanking -INFO - Role selected
+2020-10-15 20:05:53,575 - ebanking -INFO - Campaign added successfully
+2020-10-15 20:05:53,576 - ebanking -INFO - Passed
+2020-10-15 20:05:58,911 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 20:06:02,630 - ebanking -INFO - Login Successfull
+2020-10-15 20:06:02,914 - ebanking -INFO - Promotion Tab clicked
+2020-10-15 20:06:07,711 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-15 20:06:11,382 - ebanking -INFO - Campains Name added
+2020-10-15 20:06:11,573 - ebanking -INFO - Subject added
+2020-10-15 20:06:11,826 - ebanking -INFO - Body added
+2020-10-15 20:06:12,123 - ebanking -INFO - Store selected
+2020-10-15 20:06:12,422 - ebanking -INFO - Role selected
+2020-10-15 20:06:16,942 - ebanking -INFO - Campaign added successfully
+2020-10-15 20:06:16,943 - ebanking -INFO - Passed
+2020-10-15 20:06:30,680 - ebanking -INFO - *************TC_AddGiftCard_004*************
+2020-10-15 20:06:36,719 - ebanking -INFO - loggin successfull
+2020-10-15 20:06:38,808 - ebanking -INFO - Clicked on Sales Tab
+2020-10-15 20:06:40,780 - ebanking -INFO - Clicked on Gift Card Sub Tab
+2020-10-15 20:06:44,366 - ebanking -INFO - Clicked on Add New
+2020-10-15 20:06:44,679 - ebanking -INFO - Selected Order Type
+2020-10-15 20:06:44,834 - ebanking -INFO - Recipient Added
+2020-10-15 20:06:44,980 - ebanking -INFO - Sender Added
+2020-10-15 20:06:47,148 - ebanking -INFO - Clicked on Save
+2020-10-15 20:06:49,193 - ebanking -INFO - Gift Card added successfully
+2020-10-15 20:06:49,195 - ebanking -INFO - Passed
+2020-10-15 20:07:37,812 - ebanking -INFO - *************TC_Login_001*************
+2020-10-15 20:07:38,075 - ebanking -INFO - Entered Username
+2020-10-15 20:07:38,332 - ebanking -INFO - Entered Password
+2020-10-15 20:08:25,325 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 20:08:37,357 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 20:08:49,391 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 20:09:09,680 - ebanking -INFO - *************TC_AddGiftCard_004*************
+2020-10-15 20:09:12,770 - ebanking -INFO - loggin successfull
+2020-10-15 20:10:37,511 - ebanking -INFO - *************TC_AddCustomer_002*************
+2020-10-15 20:10:37,511 - ebanking -INFO - *************TC_AddGiftCard_004*************
+2020-10-15 20:10:37,511 - ebanking -INFO - *************TC_Login_001*************
+2020-10-15 20:10:38,080 - ebanking -INFO - Entered Username
+2020-10-15 20:10:38,782 - ebanking -INFO - Entered Password
+2020-10-15 20:10:39,100 - ebanking -INFO - loggin successfull
+2020-10-15 20:10:39,251 - ebanking -INFO - loggin successfull
+2020-10-15 20:10:39,263 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 20:10:39,936 - ebanking -INFO - Failed
+2020-10-15 20:10:40,119 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-15 20:10:44,146 - ebanking -INFO - *************TC_AddCampaign_003****************
