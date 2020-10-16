@@ -21,7 +21,8 @@ public class AddCustomerPage {
 	}
 	
 	
-	@FindBy(xpath="(//span[contains(text(),'Customers')])[1]")
+	//@FindBy(xpath="(//span[contains(text(),'Customers')])[1]")
+	@FindBy(xpath="//a[@href='#']//span[contains(normalize-space(),'Customers')]")
 	@CacheLookup
 	WebElement customerTab;
 	

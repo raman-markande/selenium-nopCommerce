@@ -11,52 +11,63 @@ import com.nopCommerce.PageObjects.LoginPage;
 import com.nopCommerce.Utilities.XLUtils;
 
 public class TC_AddCampaignDDT_003 extends BaseClass {
-	
-	
+
 	@Test(dataProvider = "CampaingnsData")
-	public void addCampaignTest(String name, String subject, String body, String store, String role)
-			throws InterruptedException, IOException {
+	public void addCampaignTest(String name, String subject, String body, String store, String role) {
 		logger.info("*************TC_AddCampaign_003****************");
-		LoginPage lp = new LoginPage(driver);
-		lp.setUsername(config.getUsername());
-		lp.setPassword(config.getPassword());
-		lp.clickLogin();
-		logger.info("Login Successfull");
+		try {
+			LoginPage lp = new LoginPage(driver);
+			lp.setUsername(config.getUsername());
+			lp.setPassword(config.getPassword());
+			lp.clickLogin();
+			logger.info("Login Successfull");
 
-		AddCampaignsPage acp = new AddCampaignsPage(driver);
-		acp.clickPromotionTab();
-		logger.info("Promotion Tab clicked");
-		acp.clickCampaignsSubTab();
-		logger.info("Campaign Sub Tab clicked");
-		Thread.sleep(2000);
-		acp.clickAddNew();
+			AddCampaignsPage acp = new AddCampaignsPage(driver);
+			acp.clickPromotionTab();
+			logger.info("Promotion Tab clicked");
+			acp.clickCampaignsSubTab();
+			logger.info("Campaign Sub Tab clicked");
+			Thread.sleep(2000);
+			acp.clickAddNew();
 
-		acp.setCampaignsName(name);
-		logger.info("Campains Name added");
-		acp.setSubject(subject);
-		logger.info("Subject added");
-		acp.setBody(body);
-		logger.info("Body added");
-		acp.selectStore(store);
-		logger.info("Store selected");
-		acp.selectCustomerRole(role);
-		logger.info("Role selected");
-		acp.clickSave();
-		Thread.sleep(2000);
+			acp.setCampaignsName(name);
+			logger.info("Campains Name added");
+			acp.setSubject(subject);
+			logger.info("Subject added");
+			acp.setBody(body);
+			logger.info("Body added");
+			acp.selectStore(store);
+			logger.info("Store selected");
+			acp.selectCustomerRole(role);
+			logger.info("Role selected");
+			acp.clickSave();
+			Thread.sleep(2000);
 
-		if (driver.getPageSource().contains("The new campaign has been added successfully.")) {
-			logger.info("Campaign added successfully");
-			logger.info("Passed");
-			lp.clickLogout();
-			Thread.sleep(3000);
-			Assert.assertTrue(true);
+			if (driver.getPageSource().contains("The new campaign has been added successfully.")) {
+				logger.info("Campaign added successfully");
+				logger.info("Passed");
+				lp.clickLogout();
+				Thread.sleep(3000);
+				Assert.assertTrue(true);
 
-		} else {
-			captureScreen(driver,"addCampaignTest");
-			logger.info("Failed");
-			lp.clickLogout();
-			Thread.sleep(3000);
-			Assert.assertTrue(false);
+			} else {
+				captureScreen(driver, "addCampaignTest");
+				logger.info("Failed");
+				lp.clickLogout();
+				Thread.sleep(3000);
+				Assert.assertTrue(false);
+			}
+		} catch (Exception e) {
+			System.out.println(e.getMessage());
+			logger.info(e.getMessage());
+			try {
+				captureScreen(driver, "addCampaignTest");
+				Assert.assertTrue(false);
+			} catch (IOException e1) {
+				System.out.println(e1.getMessage());
+				logger.info(e1.getMessage());
+				Assert.assertTrue(false);
+			}
 		}
 
 	}

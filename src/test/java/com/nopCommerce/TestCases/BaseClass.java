@@ -3,6 +3,7 @@ package com.nopCommerce.TestCases;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
@@ -47,6 +48,7 @@ public class BaseClass {
 		
 		driver.get(baseURL);
 		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		
 	}
 	
