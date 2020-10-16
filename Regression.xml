@@ -4,12 +4,12 @@
 	<listeners>
 		<listener class-name="com.nopCommerce.Utilities.Reporting" />
 	</listeners>
-	<test name="Test" parallel = "classes" thread-count = "3">
+	<test name="Test" parallel = "classes" thread-count = "4">
 		<parameter name="browser" value="${browserName}" />
 		<classes>
 			<class name="com.nopCommerce.TestCases.TC_Login_001" />
 			<class name="com.nopCommerce.TestCases.TC_AddCustomer_002" />
-			<!-- <class name="com.nopCommerce.TestCases.TC_AddCampaignDDT_003" /> -->
+			<class name="com.nopCommerce.TestCases.TC_AddCampaignDDT_003" />
 			<class name="com.nopCommerce.TestCases.TC_AddGiftCard_004" />
 
 
