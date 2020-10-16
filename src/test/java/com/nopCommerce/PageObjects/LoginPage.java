@@ -22,8 +22,8 @@ public class LoginPage {
 	@FindBy(xpath="//input[@class='button-1 login-button']")
 	WebElement button_login;
 	
-	@FindBy(xpath="//a[contains(text(),'Logout')]")
-	WebElement linkLogout;
+	@FindBy(xpath="//a[contains(normalize-space(),'Logout')]")
+	WebElement linkLogout;  
 	
 	public void setUsername(String username) {
 		text_username.clear();
