@@ -7,7 +7,7 @@
 	<test name="Test" parallel = "methods" thread-count = "2">
 		<parameter name="browser" value="${browserName}" />
 		<classes>
-			<class name="com.nopCommerce.TestCases.TC_Login_001" />		
+			<class name="com.nopCommerce.TestCases.TC_Login_001" />			
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

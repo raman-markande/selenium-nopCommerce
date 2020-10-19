@@ -13,7 +13,7 @@ import com.nopCommerce.Utilities.XLUtils;
 public class TC_AddCampaignDDT_003 extends BaseClass {
 
 	@Test(dataProvider = "CampaingnsData")
-	public void addCampaignTest(String name, String subject, String body, String store, String role) {
+	public void addCampaignTest(String name, String subject, String body, String store, String role) throws Throwable {
 		logger.info("*************TC_AddCampaign_003****************");
 		try {
 			LoginPage lp = new LoginPage(driver);
@@ -51,23 +51,17 @@ public class TC_AddCampaignDDT_003 extends BaseClass {
 				Assert.assertTrue(true);
 
 			} else {
-				captureScreen(driver, "addCampaignTest");
+				captureScreen(driver, new Throwable().getStackTrace()[0].getMethodName());
 				logger.info("Failed");
 				lp.clickLogout();
 				Thread.sleep(3000);
 				Assert.assertTrue(false);
 			}
 		} catch (Exception e) {
+			captureScreen(driver, new Throwable().getStackTrace()[0].getMethodName());
 			System.out.println(e.getMessage());
 			logger.info(e.getMessage());
-			try {
-				captureScreen(driver, "addCampaignTest");
-				Assert.assertTrue(false);
-			} catch (IOException e1) {
-				System.out.println(e1.getMessage());
-				logger.info(e1.getMessage());
-				Assert.assertTrue(false);
-			}
+			Assert.assertTrue(false);
 		}
 
 	}

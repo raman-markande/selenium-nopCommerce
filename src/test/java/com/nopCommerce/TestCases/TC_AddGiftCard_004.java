@@ -1,7 +1,5 @@
 package com.nopCommerce.TestCases;
 
-import java.io.IOException;
-
 import org.junit.Assert;
 import org.testng.annotations.Test;
 
@@ -11,7 +9,7 @@ import com.nopCommerce.PageObjects.LoginPage;
 public class TC_AddGiftCard_004 extends BaseClass {
 
 	@Test
-	public void addGiftCardTest() {
+	public void addGiftCardTest() throws Throwable {
 		logger.info("*************TC_AddGiftCard_004*************");
 		try {
 			LoginPage lp = new LoginPage(driver);
@@ -46,25 +44,18 @@ public class TC_AddGiftCard_004 extends BaseClass {
 				logger.info("Passed");
 				Assert.assertTrue(true);
 			} else {
-				captureScreen(driver, "addGiftCardTest");
+				captureScreen(driver, new Throwable().getStackTrace()[0].getMethodName());
 				logger.info("Failed");
 				Assert.assertTrue(false);
-
 			}
 
 		}
 
 		catch (Exception e) {
+			captureScreen(driver, new Throwable().getStackTrace()[0].getMethodName());
 			System.out.println(e.getMessage());
 			logger.info(e.getMessage());
-			try {
-				captureScreen(driver, "addNewCustomerTest");
-				Assert.assertTrue(false);
-			} catch (IOException e1) {
-				System.out.println(e1.getMessage());
-				logger.info(e1.getMessage());
-				Assert.assertTrue(false);
-			}
+			Assert.assertTrue(false);
 		}
 	}
 

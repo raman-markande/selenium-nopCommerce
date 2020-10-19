@@ -1,6 +1,5 @@
 package com.nopCommerce.TestCases;
 
-import java.io.IOException;
 
 import org.junit.Assert;
 import org.openqa.selenium.By;
@@ -11,10 +10,11 @@ import org.testng.annotations.Test;
 import com.nopCommerce.PageObjects.LoginPage;
 import com.nopCommerce.PageObjects.SearchCustomerPage;
 
+
 public class TC_SearchCustomer_005 extends BaseClass {
 
 	@Test
-	public void serachCustomerByEmailTest() {
+	public void serachCustomerByEmailTest() throws Throwable {
 		LoginPage lp = new LoginPage(driver);
 		SearchCustomerPage scp = new SearchCustomerPage(driver);
 		try {
@@ -38,19 +38,13 @@ public class TC_SearchCustomer_005 extends BaseClass {
 				logger.info("Search by Email working successfully");
 				Assert.assertTrue(true);
 			} else {
-				try {
-					captureScreen(driver, "serachCustomerByEmailTest");
+					captureScreen(driver, new Throwable().getStackTrace()[0].getMethodName());
 					logger.info("Failed: Search functionality failed");
 					Assert.assertTrue(false);
-				} catch (IOException e) {
-					logger.info("Failed: Exception Occured");
-					logger.info(e.getStackTrace());
-					Assert.assertTrue(false);
-				}
 			}
-			//lp.clickLogout();
 
-		} catch (Exception e) {
+		} catch (Throwable e) {
+			captureScreen(driver, new Throwable().getStackTrace()[0].getMethodName());
 			logger.info("Failed: Exception Occured");
 			logger.info(e.getMessage());
 			Assert.assertTrue(false);
@@ -61,7 +55,7 @@ public class TC_SearchCustomer_005 extends BaseClass {
 	}
 
 	@Test
-	public void serachCustomerByNameTest() {
+	public void serachCustomerByNameTest() throws Throwable {
 		LoginPage lp = new LoginPage(driver);
 		SearchCustomerPage scp = new SearchCustomerPage(driver);
 
@@ -90,24 +84,17 @@ public class TC_SearchCustomer_005 extends BaseClass {
 				logger.info("Search by Name working successfully");
 				Assert.assertTrue(true);
 			} else {
-				try {
-					captureScreen(driver, "serachCustomerByNameTest");
+					captureScreen(driver, new Throwable().getStackTrace()[0].getMethodName());
 					logger.info("Failed: Search functionality failed");
 					Assert.assertTrue(false);
-				} catch (IOException e) {
-					logger.info("Failed: Exception Occured");
-					logger.info(e.getMessage());
-					Assert.assertTrue(false);
-				}
 			}
 
-		} catch (Exception e) {
+		} catch (Throwable e) {
+			captureScreen(driver, new Throwable().getStackTrace()[0].getMethodName());
 			logger.info("Failed: Exception Occured");
 			logger.info(e.getMessage());
 			Assert.assertTrue(false);
-		} finally {
-			lp.clickLogout();
-		}
+		} 
 	}
 
 }

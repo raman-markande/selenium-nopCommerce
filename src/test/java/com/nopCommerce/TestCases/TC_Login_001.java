@@ -1,6 +1,5 @@
 package com.nopCommerce.TestCases;
 
-import java.io.IOException;
 
 import org.junit.Assert;
 import org.testng.annotations.Test;
@@ -10,7 +9,7 @@ import com.nopCommerce.PageObjects.LoginPage;
 public class TC_Login_001 extends BaseClass{
 	
 	@Test
-	public void loginTest() throws IOException {
+	public void loginTest() throws Throwable {
 		logger.info("*************TC_Login_001*************");
 		LoginPage lp= new LoginPage(driver);
 		lp.setUsername(username);
@@ -25,7 +24,7 @@ public class TC_Login_001 extends BaseClass{
 			Assert.assertTrue(true);
 		}
 		else {
-			captureScreen(driver,"loginTest");
+			captureScreen(driver,new Throwable().getStackTrace()[0].getMethodName());
 			logger.info("Failed");
 			Assert.assertTrue(false);
 			

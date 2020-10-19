@@ -1,6 +1,5 @@
 package com.nopCommerce.TestCases;
 
-import java.io.IOException;
 
 import org.junit.Assert;
 import org.openqa.selenium.By;
@@ -14,7 +13,7 @@ import com.nopCommerce.PageObjects.LoginPage;
 public class TC_AddCustomer_002 extends BaseClass {
 
 	@Test(priority = 1)
-	public void addNewCustomerTest() throws Exception {
+	public void addNewCustomerTest() throws Throwable {
 		logger.info("*************TC_AddCustomer_002: addNewCustomerTest*************");
 		try {
 			LoginPage lp = new LoginPage(driver);
@@ -59,7 +58,7 @@ public class TC_AddCustomer_002 extends BaseClass {
 				logger.info("Passed");
 				Assert.assertTrue(true);
 			} else {
-				captureScreen(driver, "addNewCustomerTest");
+				captureScreen(driver, new Throwable().getStackTrace()[0].getMethodName());
 				logger.info("Failed");
 				Assert.assertTrue(false);
 			}
@@ -68,23 +67,16 @@ public class TC_AddCustomer_002 extends BaseClass {
 		}
 
 		catch (Exception e) {
+			captureScreen(driver, new Throwable().getStackTrace()[0].getMethodName());
 			System.out.println(e.getMessage());
 			logger.info(e.getMessage());
-			try {
-				captureScreen(driver, "addNewCustomerTest");
-				Assert.assertTrue(false);
-			} catch (IOException e1) {
-				System.out.println(e1.getMessage());
-				logger.info(e1.getMessage());
-				Assert.assertTrue(false);
-			}
-
+			Assert.assertTrue(false);
 		}
 
 	}
 
 	@Test(priority = 2)
-	public void CustomerAdditionWithDuplicateEmailCheck() {
+	public void CustomerAdditionWithDuplicateEmailCheck() throws Throwable {
 		try {
 			logger.info("*************TC_AddCustomer_002:  CustomerAdditionWithDuplicateEmailCheck*************");
 			LoginPage lp = new LoginPage(driver);
@@ -113,7 +105,7 @@ public class TC_AddCustomer_002 extends BaseClass {
 				logger.info("Passed");
 				Assert.assertTrue(true);
 			} else {
-				captureScreen(driver, "CustomerAdditionWithDuplicateEmailCheck");
+				captureScreen(driver, new Throwable().getStackTrace()[0].getMethodName());
 				logger.info("Failed: New customer could be addeded with existing email");
 				Assert.assertTrue(false);
 			}
@@ -121,16 +113,10 @@ public class TC_AddCustomer_002 extends BaseClass {
 			lp.clickLogout();
 
 		} catch (Exception e) {
+			captureScreen(driver, new Throwable().getStackTrace()[0].getMethodName());
 			System.out.println(e.getMessage());
 			logger.info(e.getMessage());
-			try {
-				captureScreen(driver, "CustomerAdditionWithDuplicateEmailCheck");
-				Assert.assertTrue(false);
-			} catch (IOException e1) {
-				System.out.println(e1.getMessage());
-				logger.info(e1.getMessage());
-				Assert.assertTrue(false);
-			}
+			Assert.assertTrue(false);
 
 		}
 
