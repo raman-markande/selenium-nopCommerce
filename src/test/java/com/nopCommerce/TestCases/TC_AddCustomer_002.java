@@ -69,7 +69,7 @@ public class TC_AddCustomer_002 extends BaseClass {
 		catch (Exception e) {
 			captureScreen(driver, new Throwable().getStackTrace()[0].getMethodName());
 			System.out.println(e.getMessage());
-			logger.info(e.getMessage());
+			logger.error(e.getMessage());
 			Assert.assertTrue(false);
 		}
 
@@ -115,7 +115,7 @@ public class TC_AddCustomer_002 extends BaseClass {
 		} catch (Exception e) {
 			captureScreen(driver, new Throwable().getStackTrace()[0].getMethodName());
 			System.out.println(e.getMessage());
-			logger.info(e.getMessage());
+			logger.error(e.getMessage());
 			Assert.assertTrue(false);
 
 		}

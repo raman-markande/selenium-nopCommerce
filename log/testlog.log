@@ -1,258 +1,86 @@
-2020-10-19 17:56:45,667 - ebanking -INFO - ********************TC_SearchCustomer_005: By Email******************
-2020-10-19 17:56:45,738 - ebanking -INFO - *************TC_Login_001*************
-2020-10-19 17:56:46,240 - ebanking -INFO - *************TC_AddGiftCard_004*************
-2020-10-19 17:56:46,463 - ebanking -INFO - Entered Username
-2020-10-19 17:56:47,258 - ebanking -INFO - Entered Password
-2020-10-19 17:56:48,278 - ebanking -INFO - *************TC_AddCampaign_003****************
-2020-10-19 17:56:53,456 - ebanking -INFO - loggin successfull
-2020-10-19 17:56:54,304 - ebanking -INFO - Failed
-2020-10-19 17:56:55,308 - ebanking -INFO - Login successful
-2020-10-19 17:56:55,922 - ebanking -INFO - Login Successfull
-2020-10-19 17:56:56,030 - ebanking -INFO - Clicked on Sales Tab
-2020-10-19 17:56:56,336 - ebanking -INFO - Promotion Tab clicked
-2020-10-19 17:56:59,423 - ebanking -INFO - Clicked on Gift Card Sub Tab
-2020-10-19 17:57:00,828 - ebanking -INFO - Email entered
-2020-10-19 17:57:01,224 - ebanking -INFO - Clicked on Search
-2020-10-19 17:57:02,332 - ebanking -INFO - Campaign Sub Tab clicked
-2020-10-19 17:57:03,194 - ebanking -INFO - Clicked on Add New
-2020-10-19 17:57:03,366 - ebanking -INFO - Search by Email working successfully
-2020-10-19 17:57:03,386 - ebanking -INFO - Selected Order Type
-2020-10-19 17:57:03,548 - ebanking -INFO - Recipient Added
-2020-10-19 17:57:03,618 - ebanking -INFO - *************TC_AddCustomer_002: addNewCustomerTest*************
-2020-10-19 17:57:03,714 - ebanking -INFO - Sender Added
-2020-10-19 17:57:05,484 - ebanking -INFO - ********************TC_SearchCustomer_005: By Name******************
-2020-10-19 17:57:05,648 - ebanking -INFO - Clicked on Save
-2020-10-19 17:57:05,944 - ebanking -INFO - Login successful
-2020-10-19 17:57:06,186 - ebanking -INFO - Campains Name added
-2020-10-19 17:57:06,302 - ebanking -INFO - Subject added
-2020-10-19 17:57:06,409 - ebanking -INFO - Body added
-2020-10-19 17:57:06,560 - ebanking -INFO - Store selected
-2020-10-19 17:57:06,698 - ebanking -INFO - Role selected
-2020-10-19 17:57:07,711 - ebanking -INFO - Gift Card added successfully
-2020-10-19 17:57:07,712 - ebanking -INFO - Passed
-2020-10-19 17:57:10,866 - ebanking -INFO - loggin successfull
-2020-10-19 17:57:10,911 - ebanking -INFO - Campaign added successfully
-2020-10-19 17:57:10,912 - ebanking -INFO - Passed
-2020-10-19 17:57:16,110 - ebanking -INFO - *************TC_AddCampaign_003****************
-2020-10-19 17:57:16,626 - ebanking -INFO - Failed: Exception Occured
-2020-10-19 17:57:16,628 - ebanking -INFO - no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='#']//span[contains(normalize-space(),'Customers')]"}
+2020-10-19 18:26:42,073 - ebanking -INFO - *************TC_Login_001*************
+2020-10-19 18:26:42,298 - ebanking -INFO - Entered Username
+2020-10-19 18:26:42,494 - ebanking -INFO - Entered Password
+2020-10-19 18:26:49,366 - ebanking -INFO - Titile matched successfully
+2020-10-19 18:26:57,755 - ebanking -INFO - *************TC_AddCustomer_002: addNewCustomerTest*************
+2020-10-19 18:27:02,605 - ebanking -INFO - loggin successfull
+2020-10-19 18:27:07,777 - ebanking -INFO - added email
+2020-10-19 18:27:08,056 - ebanking -INFO - added passsword
+2020-10-19 18:27:08,314 - ebanking -INFO - added firstname
+2020-10-19 18:27:08,588 - ebanking -INFO - added lastname
+2020-10-19 18:27:08,835 - ebanking -INFO - Gender seleted
+2020-10-19 18:27:09,147 - ebanking -INFO - added DOB
+2020-10-19 18:27:09,455 - ebanking -INFO - added company
+2020-10-19 18:27:12,054 - ebanking -INFO - selected Newsletetr
+2020-10-19 18:27:12,323 - ebanking -INFO - selected Manager of Vendor
+2020-10-19 18:27:12,535 - ebanking -INFO - added admin comment
+2020-10-19 18:27:16,800 - ebanking -INFO - Customer added successfully
+2020-10-19 18:27:16,801 - ebanking -INFO - Passed
+2020-10-19 18:27:19,076 - ebanking -INFO - *************TC_AddCustomer_002:  CustomerAdditionWithDuplicateEmailCheck*************
+2020-10-19 18:27:25,554 - ebanking -INFO - loggin successfull
+2020-10-19 18:27:29,170 - ebanking -INFO - existing email fetched from grid
+2020-10-19 18:27:30,675 - ebanking -INFO - Clicked on Add button
+2020-10-19 18:27:30,868 - ebanking -INFO - added existing email
+2020-10-19 18:27:32,535 - ebanking -INFO - Customer addition with duplicate email verified successfully
+2020-10-19 18:27:32,537 - ebanking -INFO - Passed
+2020-10-19 18:27:44,439 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-19 18:27:50,790 - ebanking -INFO - Login Successfull
+2020-10-19 18:27:51,008 - ebanking -INFO - Promotion Tab clicked
+2020-10-19 18:27:55,695 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-19 18:28:00,324 - ebanking -INFO - Campains Name added
+2020-10-19 18:28:00,587 - ebanking -INFO - Subject added
+2020-10-19 18:28:00,726 - ebanking -INFO - Body added
+2020-10-19 18:28:00,979 - ebanking -INFO - Store selected
+2020-10-19 18:28:01,299 - ebanking -INFO - Role selected
+2020-10-19 18:28:05,492 - ebanking -INFO - Campaign added successfully
+2020-10-19 18:28:05,493 - ebanking -INFO - Passed
+2020-10-19 18:28:11,343 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-19 18:28:15,652 - ebanking -INFO - Login Successfull
+2020-10-19 18:28:16,107 - ebanking -INFO - Promotion Tab clicked
+2020-10-19 18:28:20,522 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-19 18:28:24,313 - ebanking -INFO - Campains Name added
+2020-10-19 18:28:24,596 - ebanking -INFO - Subject added
+2020-10-19 18:28:24,832 - ebanking -INFO - Body added
+2020-10-19 18:28:25,119 - ebanking -INFO - Store selected
+2020-10-19 18:28:25,396 - ebanking -INFO - Role selected
+2020-10-19 18:28:29,847 - ebanking -INFO - Campaign added successfully
+2020-10-19 18:28:29,849 - ebanking -INFO - Passed
+2020-10-19 18:28:34,858 - ebanking -INFO - *************TC_AddCampaign_003****************
+2020-10-19 18:28:38,539 - ebanking -INFO - Login Successfull
+2020-10-19 18:28:38,805 - ebanking -INFO - Promotion Tab clicked
+2020-10-19 18:28:43,171 - ebanking -INFO - Campaign Sub Tab clicked
+2020-10-19 18:28:47,269 - ebanking -INFO - Campains Name added
+2020-10-19 18:28:47,562 - ebanking -INFO - Subject added
+2020-10-19 18:28:47,807 - ebanking -INFO - Body added
+2020-10-19 18:28:48,098 - ebanking -INFO - Store selected
+2020-10-19 18:28:48,383 - ebanking -INFO - Role selected
+2020-10-19 18:28:52,556 - ebanking -INFO - Campaign added successfully
+2020-10-19 18:28:52,557 - ebanking -INFO - Passed
+2020-10-19 18:29:05,990 - ebanking -INFO - *************TC_AddGiftCard_004*************
+2020-10-19 18:29:11,954 - ebanking -INFO - loggin successfull
+2020-10-19 18:29:14,403 - ebanking -INFO - Clicked on Sales Tab
+2020-10-19 18:29:16,343 - ebanking -INFO - Clicked on Gift Card Sub Tab
+2020-10-19 18:29:20,462 - ebanking -INFO - Clicked on Add New
+2020-10-19 18:29:20,759 - ebanking -INFO - Selected Order Type
+2020-10-19 18:29:21,013 - ebanking -INFO - Recipient Added
+2020-10-19 18:29:21,253 - ebanking -INFO - Sender Added
+2020-10-19 18:29:23,481 - ebanking -INFO - Clicked on Save
+2020-10-19 18:29:25,526 - ebanking -INFO - Gift Card added successfully
+2020-10-19 18:29:25,527 - ebanking -INFO - Passed
+2020-10-19 18:29:33,347 - ebanking -INFO - ********************TC_SearchCustomer_005: By Email******************
+2020-10-19 18:29:38,369 - ebanking -INFO - Login successful
+2020-10-19 18:29:42,408 - ebanking -INFO - Email entered
+2020-10-19 18:29:42,597 - ebanking -INFO - Clicked on Search
+2020-10-19 18:29:44,795 - ebanking -INFO - Search by Email working successfully
+2020-10-19 18:29:46,781 - ebanking -INFO - ********************TC_SearchCustomer_005: By Name******************
+2020-10-19 18:29:47,653 - ebanking -INFO - Login successful
+2020-10-19 18:29:58,188 - ebanking -INFO - Failed: Exception Occured
+2020-10-19 18:29:58,189 - ebanking -ERROR - no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='#']//span[contains(normalize-space(),'Customers')]"}
   (Session info: chrome=86.0.4240.75)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LAPTOP-RLPFVKCU', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:52745}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: f91ad859afe2f7622c4d3fcba85de0d3
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:53423}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 6a5292235499bed0ecd5be17f686674d
 *** Element info: {Using=xpath, value=//a[@href='#']//span[contains(normalize-space(),'Customers')]}
-2020-10-19 17:57:18,156 - ebanking -INFO - added email
-2020-10-19 17:57:18,311 - ebanking -INFO - added passsword
-2020-10-19 17:57:18,430 - ebanking -INFO - added firstname
-2020-10-19 17:57:18,585 - ebanking -INFO - added lastname
-2020-10-19 17:57:18,727 - ebanking -INFO - Gender seleted
-2020-10-19 17:57:18,867 - ebanking -INFO - added DOB
-2020-10-19 17:57:19,127 - ebanking -INFO - added company
-2020-10-19 17:57:20,127 - ebanking -INFO - Login Successfull
-2020-10-19 17:57:20,552 - ebanking -INFO - Promotion Tab clicked
-2020-10-19 17:57:21,731 - ebanking -INFO - selected Newsletetr
-2020-10-19 17:57:21,856 - ebanking -INFO - selected Manager of Vendor
-2020-10-19 17:57:22,017 - ebanking -INFO - added admin comment
-2020-10-19 17:57:26,009 - ebanking -INFO - Campaign Sub Tab clicked
-2020-10-19 17:57:26,523 - ebanking -INFO - Customer added successfully
-2020-10-19 17:57:26,524 - ebanking -INFO - Passed
-2020-10-19 17:57:28,946 - ebanking -INFO - *************TC_AddCustomer_002:  CustomerAdditionWithDuplicateEmailCheck*************
-2020-10-19 17:57:29,997 - ebanking -INFO - Campains Name added
-2020-10-19 17:57:30,280 - ebanking -INFO - Subject added
-2020-10-19 17:57:30,529 - ebanking -INFO - Body added
-2020-10-19 17:57:30,845 - ebanking -INFO - Store selected
-2020-10-19 17:57:31,167 - ebanking -INFO - Role selected
-2020-10-19 17:57:35,489 - ebanking -INFO - Campaign added successfully
-2020-10-19 17:57:35,491 - ebanking -INFO - Passed
-2020-10-19 17:57:36,563 - ebanking -INFO - loggin successfull
-2020-10-19 17:57:40,508 - ebanking -INFO - existing email fetched from grid
-2020-10-19 17:57:40,528 - ebanking -INFO - *************TC_AddCampaign_003****************
-2020-10-19 17:57:42,539 - ebanking -INFO - Clicked on Add button
-2020-10-19 17:57:42,777 - ebanking -INFO - added existing email
-2020-10-19 17:57:44,204 - ebanking -INFO - Login Successfull
-2020-10-19 17:57:44,439 - ebanking -INFO - Customer addition with duplicate email verified successfully
-2020-10-19 17:57:44,440 - ebanking -INFO - Passed
-2020-10-19 17:57:44,569 - ebanking -INFO - Promotion Tab clicked
-2020-10-19 17:57:49,296 - ebanking -INFO - Campaign Sub Tab clicked
-2020-10-19 17:57:53,338 - ebanking -INFO - Campains Name added
-2020-10-19 17:57:53,632 - ebanking -INFO - Subject added
-2020-10-19 17:57:53,850 - ebanking -INFO - Body added
-2020-10-19 17:57:54,131 - ebanking -INFO - Store selected
-2020-10-19 17:57:54,413 - ebanking -INFO - Role selected
-2020-10-19 17:57:58,804 - ebanking -INFO - Campaign added successfully
-2020-10-19 17:57:58,805 - ebanking -INFO - Passed
-2020-10-19 18:02:17,046 - ebanking -INFO - *************TC_AddGiftCard_004*************
-2020-10-19 18:02:17,046 - ebanking -INFO - *************TC_Login_001*************
-2020-10-19 18:02:17,127 - ebanking -INFO - ********************TC_SearchCustomer_005: By Email******************
-2020-10-19 18:02:17,513 - ebanking -INFO - Entered Username
-2020-10-19 18:02:17,867 - ebanking -INFO - Entered Password
-2020-10-19 18:02:18,921 - ebanking -INFO - *************TC_AddCampaign_003****************
-2020-10-19 18:02:23,399 - ebanking -INFO - loggin successfull
-2020-10-19 18:02:24,884 - ebanking -INFO - Titile matched successfully
-2020-10-19 18:02:25,111 - ebanking -INFO - Login successful
-2020-10-19 18:02:26,036 - ebanking -INFO - Login Successfull
-2020-10-19 18:02:26,220 - ebanking -INFO - Promotion Tab clicked
-2020-10-19 18:02:26,446 - ebanking -INFO - Clicked on Sales Tab
-2020-10-19 18:02:29,721 - ebanking -INFO - Email entered
-2020-10-19 18:02:29,868 - ebanking -INFO - Clicked on Search
-2020-10-19 18:02:30,887 - ebanking -INFO - Clicked on Gift Card Sub Tab
-2020-10-19 18:02:31,968 - ebanking -INFO - Campaign Sub Tab clicked
-2020-10-19 18:02:32,080 - ebanking -INFO - Search by Email working successfully
-2020-10-19 18:02:33,936 - ebanking -INFO - *************TC_AddCustomer_002: addNewCustomerTest*************
-2020-10-19 18:02:34,123 - ebanking -INFO - ********************TC_SearchCustomer_005: By Name******************
-2020-10-19 18:02:34,567 - ebanking -INFO - Login successful
-2020-10-19 18:02:34,726 - ebanking -INFO - Clicked on Add New
-2020-10-19 18:02:35,000 - ebanking -INFO - Selected Order Type
-2020-10-19 18:02:35,145 - ebanking -INFO - Recipient Added
-2020-10-19 18:02:35,282 - ebanking -INFO - Sender Added
-2020-10-19 18:02:35,989 - ebanking -INFO - Campains Name added
-2020-10-19 18:02:36,108 - ebanking -INFO - Subject added
-2020-10-19 18:02:36,200 - ebanking -INFO - Body added
-2020-10-19 18:02:36,380 - ebanking -INFO - Store selected
-2020-10-19 18:02:36,529 - ebanking -INFO - Role selected
-2020-10-19 18:02:37,254 - ebanking -INFO - Clicked on Save
-2020-10-19 18:02:39,197 - ebanking -INFO - loggin successfull
-2020-10-19 18:02:39,277 - ebanking -INFO - Gift Card added successfully
-2020-10-19 18:02:39,277 - ebanking -INFO - Passed
-2020-10-19 18:02:40,403 - ebanking -INFO - Campaign added successfully
-2020-10-19 18:02:40,404 - ebanking -INFO - Passed
-2020-10-19 18:02:45,120 - ebanking -INFO - Failed: Exception Occured
-2020-10-19 18:02:45,121 - ebanking -INFO - no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='#']//span[contains(normalize-space(),'Customers')]"}
-  (Session info: chrome=86.0.4240.75)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'LAPTOP-RLPFVKCU', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:52876}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 751bd1759b7f08ec5ab4b2afd8aea2b1
-*** Element info: {Using=xpath, value=//a[@href='#']//span[contains(normalize-space(),'Customers')]}
-2020-10-19 18:02:45,355 - ebanking -INFO - *************TC_AddCampaign_003****************
-2020-10-19 18:02:46,703 - ebanking -INFO - added email
-2020-10-19 18:02:46,987 - ebanking -INFO - added passsword
-2020-10-19 18:02:47,267 - ebanking -INFO - added firstname
-2020-10-19 18:02:47,438 - ebanking -INFO - added lastname
-2020-10-19 18:02:47,556 - ebanking -INFO - Gender seleted
-2020-10-19 18:02:47,750 - ebanking -INFO - added DOB
-2020-10-19 18:02:47,912 - ebanking -INFO - added company
-2020-10-19 18:02:49,094 - ebanking -INFO - Login Successfull
-2020-10-19 18:02:49,480 - ebanking -INFO - Promotion Tab clicked
-2020-10-19 18:02:50,371 - ebanking -INFO - selected Newsletetr
-2020-10-19 18:02:50,490 - ebanking -INFO - selected Manager of Vendor
-2020-10-19 18:02:50,696 - ebanking -INFO - added admin comment
-2020-10-19 18:02:55,265 - ebanking -INFO - Customer added successfully
-2020-10-19 18:02:55,266 - ebanking -INFO - Passed
-2020-10-19 18:02:55,400 - ebanking -INFO - Campaign Sub Tab clicked
-2020-10-19 18:02:57,255 - ebanking -INFO - *************TC_AddCustomer_002:  CustomerAdditionWithDuplicateEmailCheck*************
-2020-10-19 18:02:59,671 - ebanking -INFO - Campains Name added
-2020-10-19 18:02:59,977 - ebanking -INFO - Subject added
-2020-10-19 18:03:00,239 - ebanking -INFO - Body added
-2020-10-19 18:03:00,574 - ebanking -INFO - Store selected
-2020-10-19 18:03:00,855 - ebanking -INFO - Role selected
-2020-10-19 18:03:04,294 - ebanking -INFO - loggin successfull
-2020-10-19 18:03:05,184 - ebanking -INFO - Campaign added successfully
-2020-10-19 18:03:05,185 - ebanking -INFO - Passed
-2020-10-19 18:03:09,488 - ebanking -INFO - existing email fetched from grid
-2020-10-19 18:03:10,251 - ebanking -INFO - *************TC_AddCampaign_003****************
-2020-10-19 18:03:11,219 - ebanking -INFO - Clicked on Add button
-2020-10-19 18:03:11,416 - ebanking -INFO - added existing email
-2020-10-19 18:03:13,287 - ebanking -INFO - Customer addition with duplicate email verified successfully
-2020-10-19 18:03:13,288 - ebanking -INFO - Passed
-2020-10-19 18:03:13,542 - ebanking -INFO - Login Successfull
-2020-10-19 18:03:13,871 - ebanking -INFO - Promotion Tab clicked
-2020-10-19 18:03:18,774 - ebanking -INFO - Campaign Sub Tab clicked
-2020-10-19 18:03:22,604 - ebanking -INFO - Campains Name added
-2020-10-19 18:03:22,860 - ebanking -INFO - Subject added
-2020-10-19 18:03:23,105 - ebanking -INFO - Body added
-2020-10-19 18:03:23,393 - ebanking -INFO - Store selected
-2020-10-19 18:03:23,651 - ebanking -INFO - Role selected
-2020-10-19 18:03:27,814 - ebanking -INFO - Campaign added successfully
-2020-10-19 18:03:27,815 - ebanking -INFO - Passed
-2020-10-19 18:07:34,946 - ebanking -INFO - *************TC_Login_001*************
-2020-10-19 18:07:35,011 - ebanking -INFO - *************TC_AddGiftCard_004*************
-2020-10-19 18:07:35,032 - ebanking -INFO - ********************TC_SearchCustomer_005: By Email******************
-2020-10-19 18:07:35,586 - ebanking -INFO - Entered Username
-2020-10-19 18:07:36,106 - ebanking -INFO - Entered Password
-2020-10-19 18:07:36,868 - ebanking -INFO - *************TC_AddCampaign_003****************
-2020-10-19 18:07:41,117 - ebanking -INFO - loggin successfull
-2020-10-19 18:07:43,277 - ebanking -INFO - Titile matched successfully
-2020-10-19 18:07:43,435 - ebanking -INFO - Clicked on Sales Tab
-2020-10-19 18:07:43,662 - ebanking -INFO - Login successful
-2020-10-19 18:07:44,818 - ebanking -INFO - Login Successfull
-2020-10-19 18:07:45,052 - ebanking -INFO - Promotion Tab clicked
-2020-10-19 18:07:47,176 - ebanking -INFO - Clicked on Gift Card Sub Tab
-2020-10-19 18:07:48,317 - ebanking -INFO - Email entered
-2020-10-19 18:07:48,456 - ebanking -INFO - Clicked on Search
-2020-10-19 18:07:50,565 - ebanking -INFO - Search by Email working successfully
-2020-10-19 18:07:50,935 - ebanking -INFO - Campaign Sub Tab clicked
-2020-10-19 18:07:50,972 - ebanking -INFO - Clicked on Add New
-2020-10-19 18:07:51,175 - ebanking -INFO - Selected Order Type
-2020-10-19 18:07:51,389 - ebanking -INFO - Recipient Added
-2020-10-19 18:07:51,564 - ebanking -INFO - Sender Added
-2020-10-19 18:07:52,082 - ebanking -INFO - *************TC_AddCustomer_002: addNewCustomerTest*************
-2020-10-19 18:07:52,429 - ebanking -INFO - ********************TC_SearchCustomer_005: By Name******************
-2020-10-19 18:07:52,909 - ebanking -INFO - Login successful
-2020-10-19 18:07:53,576 - ebanking -INFO - Clicked on Save
-2020-10-19 18:07:54,647 - ebanking -INFO - Campains Name added
-2020-10-19 18:07:54,786 - ebanking -INFO - Subject added
-2020-10-19 18:07:54,912 - ebanking -INFO - Body added
-2020-10-19 18:07:55,090 - ebanking -INFO - Store selected
-2020-10-19 18:07:55,237 - ebanking -INFO - Role selected
-2020-10-19 18:07:55,609 - ebanking -INFO - Gift Card added successfully
-2020-10-19 18:07:55,609 - ebanking -INFO - Passed
-2020-10-19 18:07:57,058 - ebanking -INFO - loggin successfull
-2020-10-19 18:07:59,200 - ebanking -INFO - Campaign added successfully
-2020-10-19 18:07:59,200 - ebanking -INFO - Passed
-2020-10-19 18:08:03,189 - ebanking -INFO - added email
-2020-10-19 18:08:03,353 - ebanking -INFO - added passsword
-2020-10-19 18:08:03,499 - ebanking -INFO - added firstname
-2020-10-19 18:08:03,500 - ebanking -INFO - Failed: Exception Occured
-2020-10-19 18:08:03,501 - ebanking -INFO - no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='#']//span[contains(normalize-space(),'Customers')]"}
-  (Session info: chrome=86.0.4240.75)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'LAPTOP-RLPFVKCU', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\hp\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:53009}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 28e0a500baaf62995c55ed2af36530ac
-*** Element info: {Using=xpath, value=//a[@href='#']//span[contains(normalize-space(),'Customers')]}
-2020-10-19 18:08:03,684 - ebanking -INFO - added lastname
-2020-10-19 18:08:03,780 - ebanking -INFO - Gender seleted
-2020-10-19 18:08:03,983 - ebanking -INFO - added DOB
-2020-10-19 18:08:04,245 - ebanking -INFO - added company
-2020-10-19 18:08:04,318 - ebanking -INFO - *************TC_AddCampaign_003****************
-2020-10-19 18:08:06,825 - ebanking -INFO - selected Newsletetr
-2020-10-19 18:08:06,956 - ebanking -INFO - selected Manager of Vendor
-2020-10-19 18:08:07,355 - ebanking -INFO - added admin comment
-2020-10-19 18:08:08,662 - ebanking -INFO - Login Successfull
-2020-10-19 18:08:08,980 - ebanking -INFO - Promotion Tab clicked
-2020-10-19 18:08:12,471 - ebanking -INFO - Customer added successfully
-2020-10-19 18:08:12,472 - ebanking -INFO - Passed
-2020-10-19 18:08:14,129 - ebanking -INFO - Campaign Sub Tab clicked
-2020-10-19 18:08:14,482 - ebanking -INFO - *************TC_AddCustomer_002:  CustomerAdditionWithDuplicateEmailCheck*************
-2020-10-19 18:08:18,061 - ebanking -INFO - Campains Name added
-2020-10-19 18:08:18,238 - ebanking -INFO - Subject added
-2020-10-19 18:08:18,453 - ebanking -INFO - Body added
-2020-10-19 18:08:18,775 - ebanking -INFO - Store selected
-2020-10-19 18:08:19,092 - ebanking -INFO - Role selected
-2020-10-19 18:08:21,799 - ebanking -INFO - loggin successfull
-2020-10-19 18:08:23,406 - ebanking -INFO - Campaign added successfully
-2020-10-19 18:08:23,406 - ebanking -INFO - Passed
-2020-10-19 18:08:26,023 - ebanking -INFO - existing email fetched from grid
-2020-10-19 18:08:27,907 - ebanking -INFO - Clicked on Add button
-2020-10-19 18:08:28,269 - ebanking -INFO - added existing email
-2020-10-19 18:08:28,344 - ebanking -INFO - *************TC_AddCampaign_003****************
-2020-10-19 18:08:30,341 - ebanking -INFO - Customer addition with duplicate email verified successfully
-2020-10-19 18:08:30,343 - ebanking -INFO - Passed
-2020-10-19 18:08:31,474 - ebanking -INFO - Login Successfull
-2020-10-19 18:08:31,629 - ebanking -INFO - Promotion Tab clicked
-2020-10-19 18:08:36,513 - ebanking -INFO - Campaign Sub Tab clicked
-2020-10-19 18:08:40,322 - ebanking -INFO - Campains Name added
-2020-10-19 18:08:40,615 - ebanking -INFO - Subject added
-2020-10-19 18:08:40,874 - ebanking -INFO - Body added
-2020-10-19 18:08:41,177 - ebanking -INFO - Store selected
-2020-10-19 18:08:41,478 - ebanking -INFO - Role selected
-2020-10-19 18:08:45,894 - ebanking -INFO - Campaign added successfully
-2020-10-19 18:08:45,895 - ebanking -INFO - Passed

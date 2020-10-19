@@ -46,7 +46,7 @@ public class TC_SearchCustomer_005 extends BaseClass {
 		} catch (Throwable e) {
 			captureScreen(driver, new Throwable().getStackTrace()[0].getMethodName());
 			logger.info("Failed: Exception Occured");
-			logger.info(e.getMessage());
+			logger.error(e.getMessage());
 			Assert.assertTrue(false);
 		} finally {
 			lp.clickLogout();
@@ -92,7 +92,7 @@ public class TC_SearchCustomer_005 extends BaseClass {
 		} catch (Throwable e) {
 			captureScreen(driver, new Throwable().getStackTrace()[0].getMethodName());
 			logger.info("Failed: Exception Occured");
-			logger.info(e.getMessage());
+			logger.error(e.getMessage());
 			Assert.assertTrue(false);
 		} 
 	}
