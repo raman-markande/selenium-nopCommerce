@@ -19,7 +19,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
 import com.nopCommerce.Utilities.ReadConfig;
-
+import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClass {
 	
