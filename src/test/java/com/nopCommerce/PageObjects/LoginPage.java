@@ -19,7 +19,7 @@ public class LoginPage {
 	@FindBy(id="Password")
 	WebElement text_password;
 	
-	@FindBy(xpath="//input[@class='button-1 login-button']")
+	@FindBy(xpath="//button[@class='button-1 login-button']")
 	WebElement button_login;
 	
 	@FindBy(xpath="//a[contains(normalize-space(),'Logout')]")
