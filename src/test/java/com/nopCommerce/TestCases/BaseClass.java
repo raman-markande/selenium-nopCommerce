@@ -38,12 +38,19 @@ public class BaseClass {
 		PropertyConfigurator.configure("Log4j.properties");
 		
 		if(br.equals("chrome")) {
-			System.setProperty("webdriver.chrome.driver", config.getChromePath());
+			//System.setProperty("webdriver.chrome.driver", config.getChromePath());
+			WebDriverManager.chromedriver().setup();
 			driver= new ChromeDriver();			
 		}
 		else if (br.equals("edge")) {
-			System.setProperty("webdriver.edge.driver", config.getEdgePath());
+			//System.setProperty("webdriver.edge.driver", config.getEdgePath());
+			WebDriverManager.edgedriver().setup();
 			driver= new EdgeDriver();			
+		}
+		else
+		{
+			WebDriverManager.chromedriver().setup();
+			driver= new ChromeDriver();	
 		}
 		
 		driver.get(baseURL);
